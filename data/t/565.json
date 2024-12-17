@@ -1,0 +1,327 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 872,
+        "name": "Sarah Hutton (IoPA)",
+        "username": "Sarah",
+        "avatar_template": "/user_avatar/community.oshwa.org/sarah/{size}/139_1.png",
+        "created_at": "2023-02-07T20:57:03.301Z",
+        "cooked": "<p>Do you know a person or organization that has mapped or wants to map manufacturing capabilities and could use some financial support to adapt or collect data?</p>\n<p>Following the use case application of the Open Know-Where standard in Round 1, <strong>we are now accepting nominations and applications for the next round of the Decentralized Manufacturing World Map Data Awards!</strong></p>\n<p>Our objective for 2023 is to map at least 150,000 points of interest (i.e.: facilities and machinery), under the OKW initiative. This mapping, in addition to benefiting communities engaged in decentralized manufacturing by helping them find where items can be produced locally, will enable us to develop a key part of the infrastructure for the distributed production of Open Hardware: a global map of facilities, machines, and tools, based on a shared open framework and open APIs.</p>\n<p><strong>$6,000.00USD will be divided up into 3-6 one-shot financial awards ranging from $500-$2000.</strong> The award will fund time and operational costs to do one, or both, of the following:</p>\n<ul>\n<li>Take existing datasets of facilities, machinery, or tools and help us integrate them into our growing global manufacturing facilities and machinery data by developing processes or software to validate or transform the source data.</li>\n<li>Collect data related to the mapping of manufacturing capabilities, through surveys, or data scraping for integration into our growing global manufacturing facilities and machinery data.</li>\n</ul>\n<p>Applications will be accepted and awarded on a rolling basis, with a <strong>submission deadline of Feb 15, 2023</strong>.</p>\n<p><a href=\"https://internetofproduction.limesurvey.net/474935\" rel=\"nofollow noopener\"><strong>NOMINATE SOMEONE OR SUBMIT AN APPLICATION</strong></a></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2023-02-07T20:57:03.301Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 3,
+        "incoming_link_count": 0,
+        "reads": 4,
+        "score": 0.95,
+        "yours": false,
+        "topic_id": 565,
+        "topic_slug": "deadline-approaching-feb-15-accepting-nominations-and-applications-for-our-decentralized-manufacturing-world-map-data-awards",
+        "display_username": "Sarah Hutton (IoPA)",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://internetofproduction.limesurvey.net/474935",
+            "internal": false,
+            "reflection": false,
+            "title": "Calling for Nominations and Applications for Our Decentralized Manufacturing World Map Data Awards!",
+            "clicks": 2
+          }
+        ],
+        "read": true,
+        "user_title": "",
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1178,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      872
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      649
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 565,
+  "title": "DEADLINE APPROACHING (Feb 15): Accepting Nominations and Applications for Our Decentralized Manufacturing World Map Data Awards!",
+  "fancy_title": "DEADLINE APPROACHING (Feb 15): Accepting Nominations and Applications for Our Decentralized Manufacturing World Map Data Awards!",
+  "posts_count": 1,
+  "created_at": "2023-02-07T20:57:03.211Z",
+  "views": 309,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2023-02-07T20:57:03.301Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "deadline-approaching-feb-15-accepting-nominations-and-applications-for-our-decentralized-manufacturing-world-map-data-awards",
+  "category_id": 5,
+  "word_count": 261,
+  "deleted_at": null,
+  "user_id": 1178,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_565",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1178,
+      "username": "Sarah",
+      "avatar_template": "/user_avatar/community.oshwa.org/sarah/{size}/139_1.png"
+    },
+    "last_poster": {
+      "id": 1178,
+      "username": "Sarah",
+      "avatar_template": "/user_avatar/community.oshwa.org/sarah/{size}/139_1.png"
+    },
+    "participants": [
+      {
+        "id": 1178,
+        "username": "Sarah",
+        "avatar_template": "/user_avatar/community.oshwa.org/sarah/{size}/139_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://internetofproduction.limesurvey.net/474935",
+        "title": "Calling for Nominations and Applications for Our Decentralized Manufacturing World Map Data Awards!",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1178,
+        "domain": "internetofproduction.limesurvey.net",
+        "root_domain": "limesurvey.net"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

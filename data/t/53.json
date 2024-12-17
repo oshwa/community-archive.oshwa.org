@@ -1,0 +1,326 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 177,
+        "name": "makegeneve",
+        "username": "makegeneve",
+        "avatar_template": "/user_avatar/community.oshwa.org/makegeneve/{size}/43_1.png",
+        "created_at": "2016-06-15T11:42:27.000Z",
+        "cooked": "<p>Hi,</p>\n<p>I published an article on Circulate News about the business benefits of open source modular design for the circular economy.  As a member of the OSHWA, I included a link to this site in the article.</p>\n<p>You\u2019ll find it at: <a href=\"http://circulatenews.org/2016/06/business-benefits-of-open-source-modular-design-for-the-circular-economy/\" rel=\"nofollow noopener\">Circulate News</a></p>\n<p>Cheers,</p>\n<p>Paul</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2017-02-14T04:29:21.542Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 10,
+        "incoming_link_count": 4,
+        "reads": 4,
+        "score": 21.3,
+        "yours": false,
+        "topic_id": 53,
+        "topic_slug": "open-source-circular-economy",
+        "display_username": "makegeneve",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://circulatenews.org/2016/06/business-benefits-of-open-source-modular-design-for-the-circular-economy/",
+            "internal": false,
+            "reflection": false,
+            "clicks": 4
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 707,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      177
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      3077
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 53,
+  "title": "Open Source Circular Economy",
+  "fancy_title": "Open Source Circular Economy",
+  "posts_count": 1,
+  "created_at": "2016-06-15T11:42:27.000Z",
+  "views": 968,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2016-06-15T11:42:27.000Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "open-source-circular-economy",
+  "category_id": 5,
+  "word_count": 65,
+  "deleted_at": null,
+  "user_id": 707,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_53",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 707,
+      "username": "makegeneve",
+      "avatar_template": "/user_avatar/community.oshwa.org/makegeneve/{size}/43_1.png"
+    },
+    "last_poster": {
+      "id": 707,
+      "username": "makegeneve",
+      "avatar_template": "/user_avatar/community.oshwa.org/makegeneve/{size}/43_1.png"
+    },
+    "participants": [
+      {
+        "id": 707,
+        "username": "makegeneve",
+        "avatar_template": "/user_avatar/community.oshwa.org/makegeneve/{size}/43_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "http://circulatenews.org/2016/06/business-benefits-of-open-source-modular-design-for-the-circular-economy/",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 707,
+        "domain": "circulatenews.org",
+        "root_domain": "circulatenews.org"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

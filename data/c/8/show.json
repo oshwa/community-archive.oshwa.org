@@ -1,0 +1,57 @@
+{
+  "category": {
+    "id": 8,
+    "name": "Open Hardware Projects",
+    "color": "AB9364",
+    "text_color": "FFF",
+    "slug": "open-hardware-projects",
+    "topic_count": 7,
+    "post_count": 10,
+    "position": 3,
+    "description": null,
+    "description_text": null,
+    "topic_url": "/t/about-the-open-hardware-projects-category/14",
+    "read_restricted": false,
+    "permission": null,
+    "notification_level": null,
+    "topic_template": "",
+    "has_children": null,
+    "sort_order": "",
+    "sort_ascending": null,
+    "show_subcategory_list": false,
+    "num_featured_topics": 3,
+    "default_view": null,
+    "subcategory_list_style": "rows_with_featured_topics",
+    "default_top_period": "all",
+    "minimum_required_tags": 0,
+    "navigate_to_first_post_after_read": false,
+    "available_groups": [
+      "admins",
+      "moderators",
+      "staff",
+      "trust_level_0",
+      "trust_level_1",
+      "trust_level_2",
+      "trust_level_3",
+      "trust_level_4"
+    ],
+    "auto_close_hours": null,
+    "auto_close_based_on_last_post": false,
+    "group_permissions": [
+      {
+        "permission_type": 1,
+        "group_name": "everyone"
+      }
+    ],
+    "mailinglist_mirror": false,
+    "all_topics_wiki": false,
+    "cannot_delete_reason": "Can't delete this category because it has 7 topics. Oldest topic is <a href=\"http://community.oshwa.org/t/wikiobject-oshw-projects-information-in-wikidata/56\">WikiObject: OSHW Projects information in Wikidata</a>.",
+    "allow_badges": true,
+    "custom_fields": {
+      "import_id": "1146"
+    },
+    "topic_featured_link_allowed": true,
+    "uploaded_logo": null,
+    "uploaded_background": null
+  }
+}

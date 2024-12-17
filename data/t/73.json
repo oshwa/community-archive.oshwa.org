@@ -1,0 +1,562 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 223,
+        "name": "",
+        "username": "Jonathan",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/j/aeb1de/{size}.png",
+        "created_at": "2017-03-08T17:10:54.272Z",
+        "cooked": "<p>Hi,<br>\nIn the last years, the term Open Source is used to describe a public and gratis distribution of construction and architectural plans. One of the most interesting examples of the last years is <a href=\"http://www.elementalchile.cl/en/projects/abc-of-incremental-housing/\" rel=\"nofollow noopener\">Alejandro Aravena\u2019s social housing blue prints</a> as \u201cOpen Source\u201d.<br>\nI\u2019ve used the quotes in order to emphasize the fact that he didn\u2019t Open-Source these plans, he just distributed them for free, without a proper license.</p>\n<p>There has been a book published under the name \u201c<a href=\"https://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063\" rel=\"nofollow noopener\">Open Source Architecture</a>\u201d by Claudel and Ratti from MIT, where they claim that Open Source is going to diminish the architects and move the creative process to the stake holders.   In my view open source might facilitates a free knowledge exchange and professionalism rather then \u201cDownload and modify free plans from the web\u201d.</p>\n<p>There\u2019s much confusion an disinformation about open source in domain of architecture that prevents adaptation of the open source model in this industry.</p>\n<p>What is the status of construction and architecture within the scope of OSHWA?</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2017-03-08T17:10:54.272Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 32,
+        "incoming_link_count": 3,
+        "reads": 12,
+        "score": 34.0,
+        "yours": false,
+        "topic_id": 73,
+        "topic_slug": "open-source-architecture-and-construction",
+        "display_username": "",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://www.elementalchile.cl/en/projects/abc-of-incremental-housing/",
+            "internal": false,
+            "reflection": false,
+            "title": "ABC OF INCREMENTAL HOUSING \u00ab Elemental",
+            "clicks": 5
+          },
+          {
+            "url": "https://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Source Architecture: Carlo Ratti, Matthew Claudel: 9780500343067: Amazon.com: Books",
+            "clicks": 4
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1032,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 226,
+        "name": "caleb",
+        "username": "caleb",
+        "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+        "created_at": "2017-03-09T17:38:30.106Z",
+        "cooked": "<p>A cool project to check out how open source hardware is advancing in construction and architecture design is the <a href=\"http://opensourceecology.org/\">http://opensourceecology.org/</a> movement. They are a group developing tools, machines, and structures that are licensed as CC BY-SA 3.0 and likely would meet the requirements here <a href=\"http://certificate.oshwa.org/\">http://certificate.oshwa.org/</a> to be self-certified as OSHW. I am sure there are other projects that are utilizing open licensing as well, that was just the first that came to mind <img src=\"//community.oshwa.org/images/emoji/twitter/slight_smile.png?v=5\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2017-03-09T17:38:30.106Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 21,
+        "incoming_link_count": 0,
+        "reads": 11,
+        "score": 23.25,
+        "yours": false,
+        "topic_id": 73,
+        "topic_slug": "open-source-architecture-and-construction",
+        "display_username": "caleb",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://opensourceecology.org/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Source Ecology",
+            "clicks": 16
+          },
+          {
+            "url": "http://certificate.oshwa.org/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Source Hardware Certificate",
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 974,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 235,
+        "name": "",
+        "username": "Jonathan",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/j/aeb1de/{size}.png",
+        "created_at": "2017-03-14T11:49:46.120Z",
+        "cooked": "<p>How does the CC BY-SA 3.0 work for Architecture?<br>\nHardware implementations are not intellectual property, but Architecture and building are. This this would transfer the license to the physical structure IMHO while raising many questions regarding the rights granted.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "updated_at": "2017-03-14T11:49:46.120Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "avg_time": 22,
+        "incoming_link_count": 0,
+        "reads": 10,
+        "score": 3.1,
+        "yours": false,
+        "topic_id": 73,
+        "topic_slug": "open-source-architecture-and-construction",
+        "display_username": "",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "username": "caleb",
+          "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png"
+        },
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1032,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 236,
+        "name": "caleb",
+        "username": "caleb",
+        "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+        "created_at": "2017-03-14T16:36:58.690Z",
+        "cooked": "<p>Architecture is covered under \u201cWork\u201d <a href=\"https://creativecommons.org/licenses/by-sa/3.0/legalcode\">https://creativecommons.org/licenses/by-sa/3.0/legalcode</a></p>",
+        "post_number": 4,
+        "post_type": 1,
+        "updated_at": "2017-03-14T16:37:31.611Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 16,
+        "incoming_link_count": 0,
+        "reads": 8,
+        "score": 2.4,
+        "yours": false,
+        "topic_id": 73,
+        "topic_slug": "open-source-architecture-and-construction",
+        "display_username": "caleb",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://creativecommons.org/licenses/by-sa/3.0/legalcode",
+            "internal": false,
+            "reflection": false,
+            "title": "Creative Commons Legal Code",
+            "clicks": 1
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 974,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      223,
+      226,
+      235,
+      236
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      2811
+    ],
+    [
+      2,
+      2810
+    ],
+    [
+      3,
+      2805
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 73,
+  "title": "Open Source Architecture and construction",
+  "fancy_title": "Open Source Architecture and construction",
+  "posts_count": 4,
+  "created_at": "2017-03-08T17:10:53.980Z",
+  "views": 1207,
+  "reply_count": 1,
+  "like_count": 2,
+  "last_posted_at": "2017-03-14T16:36:58.690Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "open-source-architecture-and-construction",
+  "category_id": 5,
+  "word_count": 330,
+  "deleted_at": null,
+  "user_id": 1032,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_73",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1032,
+      "username": "Jonathan",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/j/aeb1de/{size}.png"
+    },
+    "last_poster": {
+      "id": 974,
+      "username": "caleb",
+      "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png"
+    },
+    "participants": [
+      {
+        "id": 974,
+        "username": "caleb",
+        "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+        "post_count": 2,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1032,
+        "username": "Jonathan",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/j/aeb1de/{size}.png",
+        "post_count": 2,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "http://opensourceecology.org/",
+        "title": "Open Source Ecology",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 16,
+        "user_id": 974,
+        "domain": "opensourceecology.org",
+        "root_domain": "opensourceecology.org"
+      },
+      {
+        "url": "http://www.elementalchile.cl/en/projects/abc-of-incremental-housing/",
+        "title": "ABC OF INCREMENTAL HOUSING \u00ab Elemental",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 1032,
+        "domain": "www.elementalchile.cl",
+        "root_domain": "elementalchile.cl"
+      },
+      {
+        "url": "https://www.amazon.com/Open-Source-Architecture-Carlo-Ratti/dp/0500343063",
+        "title": "Open Source Architecture: Carlo Ratti, Matthew Claudel: 9780500343067: Amazon.com: Books",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1032,
+        "domain": "www.amazon.com",
+        "root_domain": "amazon.com"
+      },
+      {
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/legalcode",
+        "title": "Creative Commons Legal Code",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 974,
+        "domain": "creativecommons.org",
+        "root_domain": "creativecommons.org"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 4,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2
+}

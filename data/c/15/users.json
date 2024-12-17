@@ -1,0 +1,72 @@
+[
+  {
+    "id": 3,
+    "username": "alicia",
+    "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+  },
+  {
+    "id": 1177,
+    "username": "OSHWA",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/o/ac91a4/{size}.png"
+  },
+  {
+    "id": 1119,
+    "username": "jt_eaton",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/j/bc79bd/{size}.png"
+  },
+  {
+    "id": 1144,
+    "username": "snajpa",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/s/97f17d/{size}.png"
+  },
+  {
+    "id": 1029,
+    "username": "drewfustini",
+    "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+  },
+  {
+    "id": 974,
+    "username": "caleb",
+    "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png"
+  },
+  {
+    "id": 1109,
+    "username": "wseltzer",
+    "avatar_template": "/user_avatar/community.oshwa.org/wseltzer/{size}/65_1.png"
+  },
+  {
+    "id": 126,
+    "username": "mxgxw",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/m/eada6e/{size}.png"
+  },
+  {
+    "id": 1123,
+    "username": "gregs",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/g/bc79bd/{size}.png"
+  },
+  {
+    "id": 1108,
+    "username": "Christina",
+    "avatar_template": "/user_avatar/community.oshwa.org/christina/{size}/64_1.png"
+  },
+  {
+    "id": 1128,
+    "username": "chepecarlos",
+    "avatar_template": "/user_avatar/community.oshwa.org/chepecarlos/{size}/94_1.png"
+  },
+  {
+    "id": 1103,
+    "username": "nemesis_c",
+    "avatar_template": "/user_avatar/community.oshwa.org/nemesis_c/{size}/60_1.png"
+  },
+  {
+    "id": 1114,
+    "username": "rryansilva",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/r/4bbf92/{size}.png"
+  },
+  {
+    "id": 1124,
+    "username": "danhalbert",
+    "avatar_template": "/user_avatar/community.oshwa.org/danhalbert/{size}/83_1.png"
+  }
+]

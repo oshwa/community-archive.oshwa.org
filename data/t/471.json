@@ -1,0 +1,327 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 751,
+        "name": "Fabio",
+        "username": "fab",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/f/51bf81/{size}.png",
+        "created_at": "2019-08-20T08:17:53.509Z",
+        "cooked": "<p>Hello, <img src=\"//community.oshwa.org/images/emoji/twitter/blush.png?v=5\" title=\":blush:\" class=\"emoji\" alt=\":blush:\"><br>\nI would like to present you <a href=\"https://docs.google.com/presentation/d/1mZT0tc0JXjVWbN_V6G-JHm5b0ixTGicMagXZsF8LPAw/present\" rel=\"nofollow noopener\">Breathing Games</a>, a commons to foster self and mutual care in respiratory health.</p>\n<p>In the last months, we have been working on a flow-based, 3d-printed controller to play games and test one\u2019s lung capacity. The goal for September is to enhance the device and its documentation, and prepare for mass production\u2026 but maybe you have ideas on how to improve our work, adding environment sensors, \u2026? <img src=\"//community.oshwa.org/images/emoji/twitter/yum.png?v=5\" title=\":yum:\" class=\"emoji\" alt=\":yum:\"></p>\n<p><img src=\"//community.oshwa.org/uploads/default/original/1X/15e63d7055babbb99c439739dc799dde4c4e4735.jpg\" alt=\"bg\" width=\"689\" height=\"221\"></p>\n<p>Feel free to share your ideas and contact us!</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2019-08-20T08:17:53.509Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 5,
+        "incoming_link_count": 1,
+        "reads": 3,
+        "score": 5.85,
+        "yours": false,
+        "topic_id": 471,
+        "topic_slug": "breathing-games-osh",
+        "display_username": "Fabio",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://docs.google.com/presentation/d/1mZT0tc0JXjVWbN_V6G-JHm5b0ixTGicMagXZsF8LPAw/present",
+            "internal": false,
+            "reflection": false,
+            "title": "BG-1-8 Breathing Games EN 08.19 - Google Slides",
+            "clicks": 1
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1161,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      751
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      1916
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 471,
+  "title": "Breathing Games - OSH",
+  "fancy_title": "Breathing Games - OSH",
+  "posts_count": 1,
+  "created_at": "2019-08-20T08:17:53.213Z",
+  "views": 550,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2019-08-20T08:17:53.509Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "breathing-games-osh",
+  "category_id": 5,
+  "word_count": 100,
+  "deleted_at": null,
+  "user_id": 1161,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_471",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1161,
+      "username": "fab",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/f/51bf81/{size}.png"
+    },
+    "last_poster": {
+      "id": 1161,
+      "username": "fab",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/f/51bf81/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 1161,
+        "username": "fab",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/f/51bf81/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://docs.google.com/presentation/d/1mZT0tc0JXjVWbN_V6G-JHm5b0ixTGicMagXZsF8LPAw/present",
+        "title": "BG-1-8 Breathing Games EN 08.19 - Google Slides",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 1161,
+        "domain": "docs.google.com",
+        "root_domain": "google.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

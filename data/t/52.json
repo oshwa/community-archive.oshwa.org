@@ -1,0 +1,338 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 176,
+        "name": "openhardware",
+        "username": "openhardware",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/o/50afbb/{size}.png",
+        "created_at": "2016-04-12T06:10:04.000Z",
+        "cooked": "<p>Hi,</p>\n<p>I\u2019m running an open hardware community on <a href=\"https://www.openhardware.io\" rel=\"nofollow noopener\">https://www.openhardware.io</a>.</p>\n<p>It allows open hardware designers to share projects, keep them in sync with a github project and sell their projects on ebay or via our manufacturing partners. Any sales generated will render the author a commission.</p>\n<p>Just wish I could become a member of the OSHWA initiative. But as this is a community driven project (with very low income) the fee for applying is a bit high.</p>\n<p>Anyway, hope you find the new community useful!</p>\n<p>How do I add a link in the FAQ-section here?<br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://i2.wp.com/www.oshwa.org/wp-content/uploads/2017/03/cropped-oshwa-logo-50-transparent.png?fit=32%2C32&amp;ssl=1\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://www.oshwa.org/faq/\" target=\"_blank\" title=\"03:31AM - 10 April 2012\" rel=\"nofollow noopener\">Open Source Hardware Association \u2013 10 Apr 12</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"https://i2.wp.com/www.oshwa.org/wp-content/uploads/2017/03/cropped-oshwa-logo-50-transparent.png?fit=512%2C512&amp;ssl=1\" class=\"thumbnail onebox-avatar\" width=\"500\" height=\"500\">\n\n<h3><a href=\"https://www.oshwa.org/faq/\" target=\"_blank\" rel=\"nofollow noopener\">Open-Source Hardware FAQ</a></h3>\n\n<p>What is open source hardware? Our statement of principles puts it like this: \u201cOpen source hardware is hardware whose design is made publicly available so that anyone can study, modify, distri\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n<br>\nWould be great if it could be added to the \u201cWhen and how should I share my design files?\u201d part.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2017-02-14T04:29:21.385Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 12,
+        "incoming_link_count": 12,
+        "reads": 13,
+        "score": 78.2,
+        "yours": false,
+        "topic_id": 52,
+        "topic_slug": "openhardware-io",
+        "display_username": "openhardware",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://www.openhardware.io",
+            "internal": false,
+            "reflection": false,
+            "clicks": 45
+          },
+          {
+            "url": "https://www.oshwa.org/faq/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open-Source Hardware FAQ \u2013 Open Source Hardware Association",
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 750,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      176
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      3141
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 52,
+  "title": "OpenHardware.io",
+  "fancy_title": "OpenHardware.io",
+  "posts_count": 1,
+  "created_at": "2016-04-12T06:10:04.000Z",
+  "views": 1070,
+  "reply_count": 0,
+  "like_count": 1,
+  "last_posted_at": "2016-04-12T06:10:04.000Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "openhardware-io",
+  "category_id": 5,
+  "word_count": 131,
+  "deleted_at": null,
+  "user_id": 750,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_52",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 750,
+      "username": "openhardware",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/o/50afbb/{size}.png"
+    },
+    "last_poster": {
+      "id": 750,
+      "username": "openhardware",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/o/50afbb/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 750,
+        "username": "openhardware",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/o/50afbb/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://www.openhardware.io",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 45,
+        "user_id": 750,
+        "domain": "www.openhardware.io",
+        "root_domain": "openhardware.io"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

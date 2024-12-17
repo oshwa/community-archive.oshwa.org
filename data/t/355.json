@@ -1,0 +1,526 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 566,
+        "name": "",
+        "username": "Christina",
+        "avatar_template": "/user_avatar/community.oshwa.org/christina/{size}/64_1.png",
+        "created_at": "2018-09-08T21:53:07.984Z",
+        "cooked": "<p>It\u2019s my first time to MIT (yes, I said that out loud). For those you new to the campus as well, you might be interested to know that there are walking maps and campus tours available. The tours are mainly designed for prospective students, but anyone can participate. The tours last 75-90 minutes at 10:15 am and 3:15 pm, but the afternoon tours don\u2019t include the admissions information (whew!), and evidently you don\u2019t need a reservation (but I\u2019m still warning the office I am coming).</p>\n<p>I plan to attend the campus tour on Wednesday, September 26th at 3:15 pm which departs from Lobby 7. It will end just in time so I can make it back for the 5:30 pm OSH workshop (see <a href=\"http://2018.oshwa.org/events/\" rel=\"nofollow noopener\">http://2018.oshwa.org/events/</a>). Would love to not be the only one on the tour, so hope to see some of you there.</p>\n<p>Campus Tour Info: Go to <a href=\"http://mitadmissions.org/visit\" rel=\"nofollow noopener\">http://mitadmissions.org/visit</a> and under \u201cRegister for a Visit\u201d click on register online. Don\u2019t be deterred by everything that talks about student admissions. At the end you will find a checkbox for \u201cother visitors\u201d.</p>\n<p>New Walking Map:<br>\n<aside class=\"onebox pdf\">\n  <header class=\"source\">\n      <a href=\"https://institute-events.mit.edu/sites/default/files/documents/MIT_Campus_Walking_Tour_Final_small.pdf\" target=\"_blank\" rel=\"nofollow noopener\">institute-events.mit.edu</a>\n  </header>\n  <article class=\"onebox-body\">\n    <a href=\"https://institute-events.mit.edu/sites/default/files/documents/MIT_Campus_Walking_Tour_Final_small.pdf\" target=\"_blank\" rel=\"nofollow noopener\"><span class=\"pdf-onebox-logo\"></span></a>\n<h3><a href=\"https://institute-events.mit.edu/sites/default/files/documents/MIT_Campus_Walking_Tour_Final_small.pdf\" target=\"_blank\" rel=\"nofollow noopener\">MIT_Campus_Walking_Tour_Final_small.pdf</a></h3>\n\n<p class=\"filesize\">1863.48 KB</p>\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>Old Walking Map (outdated info, but the layout makes more sense to me):<br>\n<aside class=\"onebox pdf\">\n  <header class=\"source\">\n      <a href=\"https://jwel.mit.edu/sites/mit-jwel/files/assets/files/self-guided_walking_tour_of_mit.pdf\" target=\"_blank\" rel=\"nofollow noopener\">jwel.mit.edu</a>\n  </header>\n  <article class=\"onebox-body\">\n    <a href=\"https://jwel.mit.edu/sites/mit-jwel/files/assets/files/self-guided_walking_tour_of_mit.pdf\" target=\"_blank\" rel=\"nofollow noopener\"><span class=\"pdf-onebox-logo\"></span></a>\n<h3><a href=\"https://jwel.mit.edu/sites/mit-jwel/files/assets/files/self-guided_walking_tour_of_mit.pdf\" target=\"_blank\" rel=\"nofollow noopener\">self-guided_walking_tour_of_mit.pdf</a></h3>\n\n<p class=\"filesize\">448.64 KB</p>\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2018-09-08T21:53:07.984Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 42,
+        "incoming_link_count": 5,
+        "reads": 13,
+        "score": 44.7,
+        "yours": false,
+        "topic_id": 355,
+        "topic_slug": "walking-map-s-of-mit-and-campus-tours",
+        "display_username": "",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://institute-events.mit.edu/sites/default/files/documents/MIT_Campus_Walking_Tour_Final_small.pdf",
+            "internal": false,
+            "reflection": false,
+            "clicks": 5
+          },
+          {
+            "url": "http://mitadmissions.org/visit",
+            "internal": false,
+            "reflection": false,
+            "title": "Visit | MIT Admissions",
+            "clicks": 4
+          },
+          {
+            "url": "http://2018.oshwa.org/events/",
+            "internal": false,
+            "reflection": false,
+            "title": "Events \u2013 2018 Open Hardware Summit",
+            "clicks": 4
+          },
+          {
+            "url": "https://jwel.mit.edu/sites/mit-jwel/files/assets/files/self-guided_walking_tour_of_mit.pdf",
+            "internal": false,
+            "reflection": false,
+            "clicks": 2
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1108,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 570,
+        "name": "caleb",
+        "username": "caleb",
+        "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+        "created_at": "2018-09-15T17:07:52.135Z",
+        "cooked": "<p>Hey Christina, thanks for the info! I am putting this info up on the Summit Events page.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2018-09-15T17:07:52.135Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 10,
+        "incoming_link_count": 0,
+        "reads": 8,
+        "score": 22.1,
+        "yours": false,
+        "topic_id": 355,
+        "topic_slug": "walking-map-s-of-mit-and-campus-tours",
+        "display_username": "caleb",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 974,
+        "hidden": false,
+        "trust_level": 2,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 607,
+        "name": "Jose Carlos Garcia Diaz",
+        "username": "chepecarlos",
+        "avatar_template": "/user_avatar/community.oshwa.org/chepecarlos/{size}/94_1.png",
+        "created_at": "2018-09-27T14:51:34.609Z",
+        "cooked": "<p>hello thanks for the information, we will also accompany you for the tour, this is also our first time. If you wish, you can add me on Facebook <a href=\"http://facebook.com/chepecarlos\" rel=\"nofollow noopener\">facebook.com/chepecarlos</a>. See you there <img src=\"//community.oshwa.org/images/emoji/twitter/slight_smile.png?v=5\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+        "post_number": 3,
+        "post_type": 1,
+        "updated_at": "2018-09-27T14:51:34.609Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "avg_time": 6,
+        "incoming_link_count": 0,
+        "reads": 5,
+        "score": 16.3,
+        "yours": false,
+        "topic_id": 355,
+        "topic_slug": "walking-map-s-of-mit-and-campus-tours",
+        "display_username": "Jose Carlos Garcia Diaz",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://facebook.com/chepecarlos",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "username": "caleb",
+          "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png"
+        },
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1128,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      566,
+      570,
+      607
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      2262
+    ],
+    [
+      2,
+      2255
+    ],
+    [
+      3,
+      2243
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 355,
+  "title": "Walking Map(s) of MIT and campus tours",
+  "fancy_title": "Walking Map(s) of MIT and campus tours",
+  "posts_count": 3,
+  "created_at": "2018-09-08T21:53:07.705Z",
+  "views": 614,
+  "reply_count": 1,
+  "like_count": 3,
+  "last_posted_at": "2018-09-27T14:51:34.609Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "walking-map-s-of-mit-and-campus-tours",
+  "category_id": 15,
+  "word_count": 288,
+  "deleted_at": null,
+  "user_id": 1108,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_355",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1108,
+      "username": "Christina",
+      "avatar_template": "/user_avatar/community.oshwa.org/christina/{size}/64_1.png"
+    },
+    "last_poster": {
+      "id": 1128,
+      "username": "chepecarlos",
+      "avatar_template": "/user_avatar/community.oshwa.org/chepecarlos/{size}/94_1.png"
+    },
+    "participants": [
+      {
+        "id": 974,
+        "username": "caleb",
+        "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1108,
+        "username": "Christina",
+        "avatar_template": "/user_avatar/community.oshwa.org/christina/{size}/64_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1128,
+        "username": "chepecarlos",
+        "avatar_template": "/user_avatar/community.oshwa.org/chepecarlos/{size}/94_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://institute-events.mit.edu/sites/default/files/documents/MIT_Campus_Walking_Tour_Final_small.pdf",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 1108,
+        "domain": "institute-events.mit.edu",
+        "root_domain": "mit.edu"
+      },
+      {
+        "url": "http://2018.oshwa.org/events/",
+        "title": "Events \u2013 2018 Open Hardware Summit",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1108,
+        "domain": "2018.oshwa.org",
+        "root_domain": "oshwa.org"
+      },
+      {
+        "url": "http://mitadmissions.org/visit",
+        "title": "Visit | MIT Admissions",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1108,
+        "domain": "mitadmissions.org",
+        "root_domain": "mitadmissions.org"
+      },
+      {
+        "url": "https://jwel.mit.edu/sites/mit-jwel/files/assets/files/self-guided_walking_tour_of_mit.pdf",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1108,
+        "domain": "jwel.mit.edu",
+        "root_domain": "mit.edu"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 3
+}

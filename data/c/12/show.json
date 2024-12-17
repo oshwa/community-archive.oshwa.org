@@ -1,0 +1,57 @@
+{
+  "category": {
+    "id": 12,
+    "name": "Open Source Hardware Certification",
+    "color": "AB9364",
+    "text_color": "FFF",
+    "slug": "discussion-of-open-source-hardware-certification-p",
+    "topic_count": 16,
+    "post_count": 130,
+    "position": 9,
+    "description": null,
+    "description_text": null,
+    "topic_url": "/t/about-the-discussion-of-open-source-hardware-certification-p-category/18",
+    "read_restricted": false,
+    "permission": null,
+    "notification_level": null,
+    "topic_template": "",
+    "has_children": null,
+    "sort_order": "",
+    "sort_ascending": null,
+    "show_subcategory_list": false,
+    "num_featured_topics": 3,
+    "default_view": null,
+    "subcategory_list_style": "rows_with_featured_topics",
+    "default_top_period": "all",
+    "minimum_required_tags": 0,
+    "navigate_to_first_post_after_read": false,
+    "available_groups": [
+      "admins",
+      "moderators",
+      "staff",
+      "trust_level_0",
+      "trust_level_1",
+      "trust_level_2",
+      "trust_level_3",
+      "trust_level_4"
+    ],
+    "auto_close_hours": null,
+    "auto_close_based_on_last_post": false,
+    "group_permissions": [
+      {
+        "permission_type": 1,
+        "group_name": "everyone"
+      }
+    ],
+    "mailinglist_mirror": false,
+    "all_topics_wiki": false,
+    "cannot_delete_reason": "Can't delete this category because it has 16 topics. Oldest topic is <a href=\"http://community.oshwa.org/t/1-is-certification-something-that-oshwa-should-be-looking-into-all/37\">1. Is certification something that OSHWA should be looking into all?</a>.",
+    "allow_badges": true,
+    "custom_fields": {
+      "import_id": "1905"
+    },
+    "topic_featured_link_allowed": true,
+    "uploaded_logo": null,
+    "uploaded_background": null
+  }
+}

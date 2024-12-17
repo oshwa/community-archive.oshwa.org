@@ -1,0 +1,55 @@
+{
+  "category": {
+    "id": 15,
+    "name": "Open Hardware Summit",
+    "color": "9EB83B",
+    "text_color": "FFFFFF",
+    "slug": "open-hardware-summit",
+    "topic_count": 11,
+    "post_count": 42,
+    "position": 7,
+    "description": "The Open Hardware Summit category is for all things OHS. Feel free to ask questions, coordinate meetups, and discuss anything Summit related.",
+    "description_text": "The Open Hardware Summit category is for all things OHS. Feel free to ask questions, coordinate meetups, and discuss anything Summit related.",
+    "topic_url": "/t/about-the-open-hardware-summit-category/180",
+    "read_restricted": false,
+    "permission": null,
+    "notification_level": null,
+    "topic_template": null,
+    "has_children": null,
+    "sort_order": "",
+    "sort_ascending": null,
+    "show_subcategory_list": false,
+    "num_featured_topics": 3,
+    "default_view": null,
+    "subcategory_list_style": "rows_with_featured_topics",
+    "default_top_period": "all",
+    "minimum_required_tags": 0,
+    "navigate_to_first_post_after_read": false,
+    "available_groups": [
+      "admins",
+      "moderators",
+      "staff",
+      "trust_level_0",
+      "trust_level_1",
+      "trust_level_2",
+      "trust_level_3",
+      "trust_level_4"
+    ],
+    "auto_close_hours": null,
+    "auto_close_based_on_last_post": false,
+    "group_permissions": [
+      {
+        "permission_type": 1,
+        "group_name": "everyone"
+      }
+    ],
+    "mailinglist_mirror": false,
+    "all_topics_wiki": false,
+    "cannot_delete_reason": "Can't delete this category because it has 11 topics. Oldest topic is <a href=\"http://community.oshwa.org/t/open-hardware-summit-2018-mit-september-27th/183\">Open Hardware Summit 2018 @ MIT September 27th</a>.",
+    "allow_badges": true,
+    "custom_fields": {},
+    "topic_featured_link_allowed": true,
+    "uploaded_logo": null,
+    "uploaded_background": null
+  }
+}

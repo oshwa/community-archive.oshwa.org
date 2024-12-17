@@ -1,0 +1,344 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 613,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-10-07T17:08:43.742Z",
+        "cooked": "<p><a href=\"http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/\" rel=\"nofollow noopener\"><img src=\"//community.oshwa.org/uploads/default/original/1X/8f12de7928c3320a51b7247affe35e63345090b9.jpg\" alt=\"dossfnpwwae-ldb\" width=\"500\" height=\"500\"></a></p>\n<p>The 2018 Open Hardware Summit badge features an ESP32 microcontroller running MicroPython firmware.  The firmware provides a Python interpreter prompt (REPL) on the serial port which allows interactive programming of the badge!</p>\n<p><a href=\"http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/\" rel=\"nofollow noopener\">This post</a> describes how to connect an FTDI 3.3V USB to serial cable to the J1 header on the badge.  In addition to the serial console, this adapter board for the J1 header enable new MicroPython firmware to be flashed on to the badge.</p>\n<p>Blog post: <strong><a href=\"http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/\" rel=\"nofollow noopener\">Open Hardware Summit badge: adapter board for USB-to-serial cable</a></strong></p>\n<p><img src=\"//community.oshwa.org/uploads/default/original/1X/3a3a52e23dfc68d1abd709909ac6d0eec25b4d77.jpg\" width=\"660\" height=\"495\"></p>\n<p><img src=\"//community.oshwa.org/uploads/default/original/1X/8bd90b1642921a099f71543cb83897d25605af1e.jpg\" width=\"660\" height=\"495\"></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/b913f9fc0a4e89fb598a62212d60ae1094de0f3b.png\" data-download-href=\"//community.oshwa.org/uploads/default/b913f9fc0a4e89fb598a62212d60ae1094de0f3b\" title=\"screenshot-from-2018-10-04-11-39-40-2.png\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/b913f9fc0a4e89fb598a62212d60ae1094de0f3b_1_647x500.png\" width=\"647\" height=\"500\"><div class=\"meta\">\n<span class=\"filename\">screenshot-from-2018-10-04-11-39-40-2.png</span><span class=\"informations\">660x510 173 KB</span><span class=\"expand\"></span>\n</div></a></div></p>\n<p><img src=\"//community.oshwa.org/uploads/default/original/1X/f148081ccb4f140db5dc77539780f232014b56b8.jpg\" width=\"660\" height=\"495\"></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/b190b8701ee5cf386f09eaa119185efb23a2186e.png\" data-download-href=\"//community.oshwa.org/uploads/default/b190b8701ee5cf386f09eaa119185efb23a2186e\" title=\"Screenshot from 2018-10-07 12-10-41.png\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/b190b8701ee5cf386f09eaa119185efb23a2186e_1_690x416.png\" alt=\"Screenshot%20from%202018-10-07%2012-10-41\" width=\"690\" height=\"416\"><div class=\"meta\">\n<span class=\"filename\">Screenshot from 2018-10-07 12-10-41.png</span><span class=\"informations\">826x498 119 KB</span><span class=\"expand\"></span>\n</div></a></div></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2018-10-07T17:17:43.773Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 44,
+        "incoming_link_count": 3,
+        "reads": 5,
+        "score": 33.2,
+        "yours": false,
+        "topic_id": 379,
+        "topic_slug": "open-hardware-summit-badge-adapter-board-for-usb-to-serial-cable",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 4,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Hardware Summit badge: adapter board for USB-to-serial cable \u2013 OSH Park",
+            "clicks": 3
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/b190b8701ee5cf386f09eaa119185efb23a2186e.png",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/b913f9fc0a4e89fb598a62212d60ae1094de0f3b.png",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": "downloaded local copies of images",
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      613
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      2233
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 379,
+  "title": "Open Hardware Summit badge: adapter board for USB-to-serial cable",
+  "fancy_title": "Open Hardware Summit badge: adapter board for USB-to-serial cable",
+  "posts_count": 1,
+  "created_at": "2018-10-07T17:08:43.521Z",
+  "views": 791,
+  "reply_count": 0,
+  "like_count": 1,
+  "last_posted_at": "2018-10-07T17:08:43.742Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "open-hardware-summit-badge-adapter-board-for-usb-to-serial-cable",
+  "category_id": 15,
+  "word_count": 185,
+  "deleted_at": null,
+  "user_id": 1029,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_379",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "last_poster": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "participants": [
+      {
+        "id": 1029,
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/",
+        "title": "Open Hardware Summit badge: adapter board for USB-to-serial cable \u2013 OSH Park",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1029,
+        "domain": "blog.oshpark.com",
+        "root_domain": "oshpark.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

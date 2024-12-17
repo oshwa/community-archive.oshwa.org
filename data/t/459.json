@@ -1,0 +1,344 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 738,
+        "name": "Jahnell Pereira",
+        "username": "jahnellp",
+        "avatar_template": "/user_avatar/community.oshwa.org/jahnellp/{size}/126_1.png",
+        "created_at": "2019-06-21T22:15:52.344Z",
+        "cooked": "<p>This morning, the SparkX Team at SparkFun released the first open-source, OSHWA certified, embedded-systems module that allows users to integrate the TensorFlow machine-learning platform into any design. The team also released three carrier boards that already have the module: BlackBoard Artemis; BlackBoard Artemis Nano; and BlackBoard Artemis ATP.</p>\n<p>To learn more about the project, the following resources will be helpful:</p>\n<li>\n<a href=\"https://github.com/sparkfun/SparkFun_Artemis\" rel=\"nofollow noopener\">GitHub Repo</a>\n</li><li>\n<a href=\"https://www.globenewswire.com/news-release/2019/06/21/1872448/0/en/SparkFun-Electronics-Releases-First-Open-Source-U-S-Manufactured-Embedded-Systems-Module.html\" rel=\"nofollow noopener\">Press Release</a>\n<p>This type of project is interesting because it is the first module SparkFun has designed AND it is the first open-source module available on the market. \u201cOur goal is to enable anyone to integrate low-power machine learning into their designs and projects without being locked into a specific toolchain,\u201d said SparkFun founder and engineer, Nathan Seidle, \u201cThe Artemis module is the first product to bridge the gap between hobbyists and consumer products, providing a single module from prototype to production.\u201d<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/043578a02e790efd1fc565bb0d652398a4827eb7.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/043578a02e790efd1fc565bb0d652398a4827eb7\" title=\"15376-SparkFun_Artemis_Module_-_Engineering_Version-01.jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/043578a02e790efd1fc565bb0d652398a4827eb7_1_500x500.jpg\" alt=\"15376-SparkFun_Artemis_Module_-_Engineering_Version-01\" width=\"500\" height=\"500\"><div class=\"meta\">\n<span class=\"filename\">15376-SparkFun_Artemis_Module_-_Engineering_Version-01.jpg</span><span class=\"informations\">600x600 135 KB</span><span class=\"expand\"></span>\n</div></a></div></p>\n<p><strong>Artemis Module Details</strong><br>\nBeyond its small size (15.5 x 10.5mm including antenna), key features of the ultra-low-power Artemis module include:</p>\n</li><li>Cortex-M4F based BLE module using the Apollo3 microcontroller from Ambiq\n</li><li>Advanced HAL (hardware abstraction layer) allowing users to push the modern Cortex-M4F architecture\n</li><li>Capability of running machine learning algorithms with the low current consumption of 6\u03bcA/MHz at 3.3V\n</li><li>Integrated Bluetooth 5 low-energy radio and 2.4GHz antenna\n</li><li>All necessary circuitry for easy integration\u2014large SMD pads and spacing allow for low-cost 2-layer carrier board implementations; programming over pre-configured serial bootloader or JTAG\n</li><li>ISO7816 Secure \u2018Smart Card\u2019 interface\n</li><li>Secure firmware update system\n</li><li>Flexible serial peripherals\n</li><li>Rich set of clock sources\n</li><li>Camera capable\n<p><strong>What About the Three Carrier Boards?</strong><br>\nThe three carrier boards provide fairly familiar form factors and enable anyone to flex the capabilities of Artemis module. All three boards:</p>\n</li><li>Have a digital MEMS microphone for experimenting with always-on voice commands with TensorFlow and machine learning\n</li><li>Have built-in BLE radio\n</li><li>Are fully compatible with SparkFun's Arduino core and can be programmed easily under the Arduino IDE  (SparkFun wrote the core from scratch)\n</li><li>Have an exposed JTAG connector for more advanced users who prefer to use the power, flexibility, and speed of professional tools\n</li><li>Include Qwiic\u00ae connectors for easy prototyping and daisy-chain capabilities for the Qwiic ecosystem, which includes 70+ sensors, outputs, and controllers\n<p>The SparkFun BlackBoard Artemis comes in the Uno footprint and is a good entry point for working with the Artemis module; the BlackBoard Artemis Nano is the smallest form factor of the three boards and offers great flexibility for smaller projects; and the Blackboard Artemis ATP (\u201call the pins\u201d) breaks out all 48 GPIO of the module and allows users to leverage the full capabilities of the module.</p>\n<p><strong>Next Steps For This Project?</strong><br>\nSparkFun is currently seeking FCC/CE approval for the Artemis module, which will be released as shielded modules and will be available in tape-and-reel quantities. The Engineering Version released today, allows users to get started as soon as possible. Once approved, having a module that is both FCC/CE certified and OSHWA certified is most definitely a first.</p>\n<p><strong>Why are we sharing this project with the OSHWA community?</strong><br>\nTypically, embedded modules are not open source and they lock users into a particular toolchain. Additionally, the gap between prototype and production is clunky at best. We hope the OSHWA community will 1) use the module and/or the boards with the module to create awesome projects and products and 2) share the module with others.</p>\n<p>Please let us know if you have comments or questions.</p>\n</li>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2019-06-21T22:15:52.344Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 15,
+        "incoming_link_count": 3,
+        "reads": 6,
+        "score": 76.95,
+        "yours": false,
+        "topic_id": 459,
+        "topic_slug": "new-open-source-embedded-module-from-sparkfun",
+        "display_username": "Jahnell Pereira",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://github.com/sparkfun/SparkFun_Artemis",
+            "internal": false,
+            "reflection": false,
+            "title": "GitHub - sparkfun/SparkFun_Artemis: World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..",
+            "clicks": 4
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/043578a02e790efd1fc565bb0d652398a4827eb7.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "https://www.globenewswire.com/news-release/2019/06/21/1872448/0/en/SparkFun-Electronics-Releases-First-Open-Source-U-S-Manufactured-Embedded-Systems-Module.html",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 2
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1159,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      738
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      1976
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 459,
+  "title": "New Open-Source Embedded Module from SparkFun",
+  "fancy_title": "New Open-Source Embedded Module from SparkFun",
+  "posts_count": 1,
+  "created_at": "2019-06-21T22:15:51.972Z",
+  "views": 610,
+  "reply_count": 0,
+  "like_count": 2,
+  "last_posted_at": "2019-06-21T22:15:52.344Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "new-open-source-embedded-module-from-sparkfun",
+  "category_id": 8,
+  "word_count": 657,
+  "deleted_at": null,
+  "user_id": 1159,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_459",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1159,
+      "username": "jahnellp",
+      "avatar_template": "/user_avatar/community.oshwa.org/jahnellp/{size}/126_1.png"
+    },
+    "last_poster": {
+      "id": 1159,
+      "username": "jahnellp",
+      "avatar_template": "/user_avatar/community.oshwa.org/jahnellp/{size}/126_1.png"
+    },
+    "participants": [
+      {
+        "id": 1159,
+        "username": "jahnellp",
+        "avatar_template": "/user_avatar/community.oshwa.org/jahnellp/{size}/126_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://github.com/sparkfun/SparkFun_Artemis",
+        "title": "GitHub - sparkfun/SparkFun_Artemis: World's first open source hardware module using a Cortex-M4F capable of running TensorFlow models and Arduino sketches..",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1159,
+        "domain": "github.com",
+        "root_domain": "github.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

@@ -1,0 +1,305 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 874,
+        "name": "OSHWA",
+        "username": "OSHWA",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/o/ac91a4/{size}.png",
+        "created_at": "2023-02-08T19:07:19.402Z",
+        "cooked": "<p>Hello everyone!</p>\n<p>A new channel is being created on each of the 4 community forum sites:</p>\n<p>GOSH<br>\nIoPA<br>\nOSHWA<br>\nOpen Toolchain Foundation<br>\nChannel Name: Consolidated Community Announcements</p>\n<p>Channel Description (to be configured in Discourse admin panel/plugin): Events and opportunities of interest across the Open Source Hardware (OSH) ecosystem.</p>\n<p>Channel Content Guidelines:</p>\n<p>Scope: related directly or indirectly to open source hardware (OSH); if indirectly related, a brief explanation of the connection, the \u201cwhy should I care\u201d will be included with the post</p>\n<p>Included: anything that could be participated in on a global scale, either online, or of a scale/open for broader community participation regardless of location</p>\n<p>Not included: smaller local/regional hackathons/meetups/council or governance meeting</p>\n<p>Examples: community calls, conferences (OSHWA Summit), online events/programmes</p>\n<p>For users concerned about too much information: Noise reduction can be accomplished via the application of filters (focus on own org tags) or, you can mute the channel.</p>\n<p>Who Can Post: Any community member, so long as the aforementioned channel content guidelines are followed. If you have any questions, please contact the community manager for your organization.</p>\n<p>Assessment: Community managers and leads will continue to monitor this new channel, and will meet regularly to discuss how to gauge impact and benefit to the global OSH ecosystem. If you have any feedback or questions, please reply to this thread or get in touch directly with any of us.</p>\n<p><span class=\"mention\">@julianstirling</span> <a class=\"mention\" href=\"/u/briannaljohns\">@briannaljohns</a> <a class=\"mention\" href=\"/u/oshwa\">@OSHWA</a> <span class=\"mention\">@schutton</span> <img src=\"//community.oshwa.org/images/emoji/twitter/v/4.png?v=5\" title=\":v:t4:\" class=\"emoji\" alt=\":v:t4:\"></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2023-02-08T19:07:19.402Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 19,
+        "incoming_link_count": 0,
+        "reads": 4,
+        "score": 1.75,
+        "yours": false,
+        "topic_id": 567,
+        "topic_slug": "new-consolidated-community-announcements-rss",
+        "display_username": "OSHWA",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": true,
+        "admin": true,
+        "staff": true,
+        "user_id": 1177,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      874
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      648
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 567,
+  "title": "New Consolidated Community Announcements RSS",
+  "fancy_title": "New Consolidated Community Announcements RSS",
+  "posts_count": 1,
+  "created_at": "2023-02-08T19:07:19.310Z",
+  "views": 312,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2023-02-08T19:07:19.402Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "new-consolidated-community-announcements-rss",
+  "category_id": 5,
+  "word_count": 240,
+  "deleted_at": null,
+  "user_id": 1177,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_567",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1177,
+      "username": "OSHWA",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/o/ac91a4/{size}.png"
+    },
+    "last_poster": {
+      "id": 1177,
+      "username": "OSHWA",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/o/ac91a4/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 1177,
+        "username": "OSHWA",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/o/ac91a4/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

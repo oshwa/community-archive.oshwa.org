@@ -1,0 +1,432 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 36,
+        "name": "alicia",
+        "username": "alicia",
+        "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png",
+        "created_at": "2014-05-21T13:17:12.000Z",
+        "cooked": "<p>When you ask someone what license they are using for their open source hardware project, you\u2019re quite likely to hear the answer \u201cCreative Commons.\u201d  And unfortunately, that doesn\u2019t fully answer the question.</p>\n<p>The reason is that there is not a single entity called the \u201cCreative Commons license.\u201d  Rather, Creative Commons offers a number of different licenses that can apply some rights and protections to your work, including the CC-BY and CC-BY-SA licenses which reflect open source values closely.  In the 2012 and 2013 surveys these licenses were, in fact, the most popular licenses used for open source hardware documentation. (Creative Commons licenses cannot be applied to the hardware itself.)</p>\n<p>Creative Commons also offers licenses that carry restrictions \u2014 against commercial use and/or derivative works \u2014 that are strictly incompatible with open source\u00b9.  The open source hardware definition states that a license for open source hardware \u201c[\u2026] shall allow for the manufacture, sale, distribution, and use of products created from the design files, the design files themselves, and derivatives thereof.\u201d Thus, if you choose to release hardware under the banner of \u201copen source,\u201d that means that you agree to allow others to use your design commercially, as well as to create derivative works (and to use them commercially). Consequently, you cannot advertise your project or product as \u201copen source\u201d if it carries restrictions against either of those uses.</p>\n<p>To enumerate the particulars, the following licenses are compatible with open source:</p>\n<p>Creative Commons Attribution (CC BY)<br>\nCreative Commons Attribution-ShareAlike (CC BY-SA)</p>\n<p>While the following licenses carry restrictions that are not compatible with open source:</p>\n<p>Creative Commons Attribution-NoDerivs (CC BY-ND)<br>\nCreative Commons Attribution-NonCommercial (CC BY-NC)<br>\nCreative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)<br>\nCreative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)</p>\n<p>Here are some resources about the issue of NC and open source:<br>\n<a href=\"http://p2pfoundation.net/Open_Hardware_Licenses#Why_.22non-commercial.22_is_a_.22non-good.22_idea_for_your_project\">p2p Foundation </a><br>\n<a href=\"http://wiki.creativecommons.org/NonCommercial\">Creative Commons</a><br>\n<a href=\"http://freedomdefined.org/Licenses/NC\">Freedom Defined </a><br>\n<a href=\"http://blog.okfn.org/2010/06/24/why-share-alike-licenses-are-open-but-non-commercial-ones-arent/\">Open Knowledge Foundation Blog</a><br>\n<a href=\"http://www.oshwa.org/faq/\">OSHWA\u2019s FAQ<br>\n</a></p>\n<p>\u00b9The Open Source Hardware Definition itself is a derivative work of the Open Source Definition (for software), and its language regarding commercial use and derivatives of OSHW is directly adapted from the language in the software context. Restrictions against commercial use and/or derivative works are incompatible with open source hardware, and also incompatible with open source software.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2017-02-14T04:29:07.135Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 240,
+        "incoming_link_count": 5,
+        "reads": 2,
+        "score": 37.4,
+        "yours": false,
+        "topic_id": 25,
+        "topic_slug": "on-creative-commons-and-open-source",
+        "display_username": "alicia",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://p2pfoundation.net/Open_Hardware_Licenses#Why_.22non-commercial.22_is_a_.22non-good.22_idea_for_your_project",
+            "internal": false,
+            "reflection": false,
+            "clicks": 1
+          },
+          {
+            "url": "http://freedomdefined.org/Licenses/NC",
+            "internal": false,
+            "reflection": false,
+            "clicks": 1
+          },
+          {
+            "url": "http://blog.okfn.org/2010/06/24/why-share-alike-licenses-are-open-but-non-commercial-ones-arent/",
+            "internal": false,
+            "reflection": false,
+            "clicks": 1
+          },
+          {
+            "url": "http://wiki.creativecommons.org/NonCommercial",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "http://www.oshwa.org/faq/",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": true,
+        "admin": true,
+        "staff": true,
+        "user_id": 3,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 49,
+        "name": "bobc",
+        "username": "bobc",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/b/85f322/{size}.png",
+        "created_at": "2014-08-11T17:15:08.000Z",
+        "cooked": "<blockquote> Consequently, you <strong>cannot</strong> advertise your project or product as \u201copen source\u201d if it carries restrictions against either of those uses.</blockquote>\n<p>Unfortunately, you can, and people very frequently do. People can use words how they like, within legal restrictions.</p>\n<p>Unless \u201cOpen Source\u201d or similar term is trademarked, there is nothing to stop people abusing it. Of course, even with trademark, it still requires active monitoring and lawyerly letters to enforce the trademark.</p>\n<p>Sadly, CC seems to have taken over \u201cOpen Source\u201d (probably unintentionally), and now everyone thinks that CC = Open Source.</p>\n<p>Companies (and individuals) who think that Open Source is the cool thing to do, and probably carries some marketing value, who probably have not read the Open Source statement of principles, and who want to protect their \u201cIP\u201d investment, look down the list of CC licenses until the find the CC-BY-NC version and think \u201cgreat! An Open license with an NC clause, that\u2019s perfect for us!\u201d</p>\n<p>These companies very deliberately use the \u201cOpen Source\u201d term, and also deliberately choose the CC-BY-NC license - these are not accidental. While they can get away with it, they will.</p>\n<p>The worst thing about CC-BY-NC is that it claims <em>more restrictive</em> rights than users are legally entitled. If you make a physical object, you own it, you are entitled to sell it, provided you don\u2019t infringe any trademarks or patents, or pass it off as original or whatever. In general, Copyright does not apply to physical objects.<br>\nHowever, CC-BY-NC applied to hardware claims that <em>you are not allowed to sell items you own</em> (I have seen this stated by one company).</p>\n<p>CC-BY-NC is not just not Open, it\u2019s anti-Open. Now everyone is using it for hardware designs.</p>\n<p>Something somewhere went badly wrong.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2017-02-14T04:29:08.732Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 13,
+        "incoming_link_count": 0,
+        "reads": 2,
+        "score": 1.05,
+        "yours": false,
+        "topic_id": 25,
+        "topic_slug": "on-creative-commons-and-open-source",
+        "display_username": "bobc",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 202,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      36,
+      49
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      3833
+    ],
+    [
+      2,
+      3751
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 25,
+  "title": "On Creative Commons and Open Source",
+  "fancy_title": "On Creative Commons and Open Source",
+  "posts_count": 2,
+  "created_at": "2014-05-21T13:17:12.000Z",
+  "views": 1025,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2014-08-11T17:15:08.000Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "on-creative-commons-and-open-source",
+  "category_id": 7,
+  "word_count": 750,
+  "deleted_at": null,
+  "user_id": 3,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_25",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 3,
+      "username": "alicia",
+      "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+    },
+    "last_poster": {
+      "id": 202,
+      "username": "bobc",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/b/85f322/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 3,
+        "username": "alicia",
+        "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 202,
+        "username": "bobc",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/b/85f322/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "http://blog.okfn.org/2010/06/24/why-share-alike-licenses-are-open-but-non-commercial-ones-arent/",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 3,
+        "domain": "blog.okfn.org",
+        "root_domain": "okfn.org"
+      },
+      {
+        "url": "http://freedomdefined.org/Licenses/NC",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 3,
+        "domain": "freedomdefined.org",
+        "root_domain": "freedomdefined.org"
+      },
+      {
+        "url": "http://p2pfoundation.net/Open_Hardware_Licenses#Why_.22non-commercial.22_is_a_.22non-good.22_idea_for_your_project",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 3,
+        "domain": "p2pfoundation.net",
+        "root_domain": "p2pfoundation.net"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 2,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2
+}

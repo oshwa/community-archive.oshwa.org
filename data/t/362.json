@@ -1,0 +1,470 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 587,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-09-17T19:59:26.549Z",
+        "cooked": "<p>OSHWA-themed Learn to Solder add-on board for the Open Hardware Summit 2018 badge designed by <a href=\"https://twitter.com/JunesPhD\" rel=\"nofollow noopener\">Andrew Sowa</a></p>\n<p><strong><a href=\"https://github.com/OSHPark/ohs18addon/\" rel=\"nofollow noopener\">GitHub Repo</a></strong></p>\n<p><strong><a href=\"https://oshpark.com/shared_projects/bYZcX6UL\" rel=\"nofollow noopener\">OSH Park shared project</a></strong></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/9aeed721acb60c45484e8159bb69fdc5620112c0.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/9aeed721acb60c45484e8159bb69fdc5620112c0\" title=\"Screenshot from 2018-09-17 13-30-37.jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/9aeed721acb60c45484e8159bb69fdc5620112c0_1_668x499.jpg\" alt=\"Screenshot%20from%202018-09-17%2013-30-37\" width=\"668\" height=\"499\"><div class=\"meta\">\n<span class=\"filename\">Screenshot from 2018-09-17 13-30-37.jpg</span><span class=\"informations\">891x666 244 KB</span><span class=\"expand\"></span>\n</div></a></div></p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/120d41488e355202970c00e0f83d98a537c5da00.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/120d41488e355202970c00e0f83d98a537c5da00\" title=\"42092482_10217675767754386_6396865664358809600_o.jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/120d41488e355202970c00e0f83d98a537c5da00_1_666x500.jpg\" alt=\"42092482_10217675767754386_6396865664358809600_o\" width=\"666\" height=\"500\"><div class=\"meta\">\n<span class=\"filename\">42092482_10217675767754386_6396865664358809600_o.jpg</span><span class=\"informations\">2024x1518 525 KB</span><span class=\"expand\"></span>\n</div></a></div><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/9b1df90275364966288668840a4138044d09665e.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/9b1df90275364966288668840a4138044d09665e\" title=\"41991400_10217675767554381_8151338999953227776_o.jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/9b1df90275364966288668840a4138044d09665e_1_375x500.jpg\" alt=\"41991400_10217675767554381_8151338999953227776_o\" width=\"375\" height=\"500\"><div class=\"meta\">\n<span class=\"filename\">41991400_10217675767554381_8151338999953227776_o.jpg</span><span class=\"informations\">1518x2024 405 KB</span><span class=\"expand\"></span>\n</div></a></div><br>\n<img src=\"//community.oshwa.org/uploads/default/original/1X/7ddabcf6d020ed4067ba4ac5b851f2d78029bfa0.png\" alt=\"Screenshot%20from%202018-09-17%2014-57-02\" width=\"491\" height=\"309\"></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2018-09-17T19:59:26.549Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 14,
+        "incoming_link_count": 12,
+        "reads": 2,
+        "score": 61.1,
+        "yours": false,
+        "topic_id": 362,
+        "topic_slug": "ohs18-badge-learn-to-solder-add-on",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://github.com/OSHPark/ohs18addon/",
+            "internal": false,
+            "reflection": false,
+            "title": "GitHub - OSHPark/ohs18addon: OSHWA-themed Learn to Solder add-on board for the Open Hardware Summit 2018 badge",
+            "clicks": 4
+          },
+          {
+            "url": "https://oshpark.com/shared_projects/bYZcX6UL",
+            "internal": false,
+            "reflection": false,
+            "title": "OSH Park ~",
+            "clicks": 2
+          },
+          {
+            "url": "https://twitter.com/JunesPhD",
+            "internal": false,
+            "reflection": false,
+            "title": "Andrew Sowa (@JunesPhD) | Twitter",
+            "clicks": 1
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/9b1df90275364966288668840a4138044d09665e.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/120d41488e355202970c00e0f83d98a537c5da00.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/9aeed721acb60c45484e8159bb69fdc5620112c0.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 588,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-09-17T20:02:39.763Z",
+        "cooked": "<p>Here is the parts list.</p>\n<p><strong>5mm color changing LED:</strong><br>\n<a href=\"https://smile.amazon.com/gp/product/B077X9Z3FW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;psc=1\" rel=\"nofollow noopener\">EDGELEC 100pcs 5mm RGB Slow Flashing LED Diodes Multicolor (White Lens / Colors Changed Automatically) Diffused Round Top +100pcs Resistors (For DC 6-13V) / Bulb Light Emitting Diode</a></p>\n<p><strong>Resistor:</strong><br>\n<a href=\"https://smile.amazon.com/gp/product/B01LWLTQFU/ref=oh_aui_detailpage_o03_s00?ie=UTF8&amp;psc=1\" rel=\"nofollow noopener\">E-Projects 500EP5141K00 1k Ohm Resistors, 1/4 W, 5% (Pack of 500)</a><br>\n<strong><em>-or-</em></strong><br>\n<a href=\"https://smile.amazon.com/gp/product/B01N1QZGL2/ref=oh_aui_detailpage_o03_s01?ie=UTF8&amp;psc=1\" rel=\"nofollow noopener\">E-Projects 500EP514470R 470 Ohm Resistors, 1/4 W, 5% (Pack of 500)</a><br>\nNOTE: Resistor value should be chosen based on personal preference for brightness.  I found the LED to be too bright with 470 Ohm while inside my apartment with indoor lighting.  I preferred to make the LED dimmer with 1K Ohm.</p>\n<p><strong><a href=\"https://www.digikey.com/short/jwmcjq\" rel=\"nofollow noopener\">4 pin connector for the Badge:</a></strong></p>\n<blockquote>\n<p>Digi-Key Part Number\tS7105-ND<br>\nManufacturer Part Number\tPPPC022LFBN-RC<br>\nDescription\tCONN HEADER FMAL 4PS .1\" DL GOLD</p>\n</blockquote>\n<p><strong><a href=\"https://www.digikey.com/short/jwmcjp\" rel=\"nofollow noopener\">2 pin headers for the Add-on board:</a></strong></p>\n<blockquote>\n<p>Digi-Key Part Number\t952-2261-ND<br>\nManufacturer Part Number\tM20-9990245<br>\nDescription\tSIL VERTICAL PC TAIL PIN HEADER<br>\nNOTE: it is much cheaper to buy 2 pin headers, use two of these 2 pin headers per Add-on board to yield a 4 pin header.</p>\n</blockquote>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2018-09-17T20:28:58.869Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 1,
+        "incoming_link_count": 0,
+        "reads": 2,
+        "score": 0.45,
+        "yours": false,
+        "topic_id": 362,
+        "topic_slug": "ohs18-badge-learn-to-solder-add-on",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 4,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://www.digikey.com/short/jwmcjq",
+            "internal": false,
+            "reflection": false,
+            "clicks": 1
+          },
+          {
+            "url": "https://smile.amazon.com/gp/product/B077X9Z3FW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "https://smile.amazon.com/gp/product/B01N1QZGL2/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "https://smile.amazon.com/gp/product/B01LWLTQFU/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "https://www.digikey.com/short/jwmcjp",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      587,
+      588
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      2253
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 362,
+  "title": "OHS18 badge learn-to-solder add-on",
+  "fancy_title": "OHS18 badge learn-to-solder add-on",
+  "posts_count": 2,
+  "created_at": "2018-09-17T19:59:26.416Z",
+  "views": 750,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2018-09-17T20:02:39.763Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "ohs18-badge-learn-to-solder-add-on",
+  "category_id": 15,
+  "word_count": 309,
+  "deleted_at": null,
+  "user_id": 1029,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_362",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "last_poster": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "participants": [
+      {
+        "id": 1029,
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "post_count": 2,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://github.com/OSHPark/ohs18addon/",
+        "title": "GitHub - OSHPark/ohs18addon: OSHWA-themed Learn to Solder add-on board for the Open Hardware Summit 2018 badge",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 4,
+        "user_id": 1029,
+        "domain": "github.com",
+        "root_domain": "github.com"
+      },
+      {
+        "url": "https://oshpark.com/shared_projects/bYZcX6UL",
+        "title": "OSH Park ~",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1029,
+        "domain": "oshpark.com",
+        "root_domain": "oshpark.com"
+      },
+      {
+        "url": "https://twitter.com/JunesPhD",
+        "title": "Andrew Sowa (@JunesPhD) | Twitter",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 1029,
+        "domain": "twitter.com",
+        "root_domain": "twitter.com"
+      },
+      {
+        "url": "https://www.digikey.com/short/jwmcjq",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 1029,
+        "domain": "www.digikey.com",
+        "root_domain": "digikey.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 2,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

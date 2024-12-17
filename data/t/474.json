@@ -1,0 +1,419 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 754,
+        "name": "Justin  White",
+        "username": "blazini",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/b/ea666f/{size}.png",
+        "created_at": "2019-08-28T23:23:13.795Z",
+        "cooked": "<p>I\u2019m working on finishing up a PCB design, it\u2019s original intention was to be part of a machine I designed and that machine has only a commercial application. However, the PCB in particular is quite useful for many different types of machines. Ive been thinking about releasing the design files as OSHW but I am a little concerned with the effect that would have on the version that is included in the machine. There wouldn\u2019t be many differences to the original design other than silscreened logos, the main concern is that the board included with the commercial machine would not include design files, would have copyrighted logos, and possibly undergo design revisions that the OSHW does not receive.</p>\n<p>I\u2019m not really concerned a whole lot about the OSHW design what people do with it, I\u2019m more worried about limitations I\u2019d have to be concerned about when using the board for it\u2019s original intent.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2019-08-28T23:23:13.795Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 21,
+        "incoming_link_count": 2,
+        "reads": 5,
+        "score": 12.05,
+        "yours": false,
+        "topic_id": 474,
+        "topic_slug": "releasing-oshw-alongside-non-oshw-version",
+        "display_username": "Justin  White",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1162,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 756,
+        "name": "jgriessen",
+        "username": "jgriessen",
+        "avatar_template": "/user_avatar/community.oshwa.org/jgriessen/{size}/33_1.png",
+        "created_at": "2019-08-30T00:11:32.938Z",
+        "cooked": "<p>As I understand it the OSHW license is based on copyright, so if you make a derivative and different PCB design, it will not affect your pcb\u2019s status as OSHW certified.  In the other direction,<br>\nOSHW has no teeth that I remember for stopping your use of your design.  You are the originator, not a licensee, so you have origin rights to license it two ways or 3 or 4 ways\u2026etc.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2019-08-30T00:11:32.938Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 33,
+        "incoming_link_count": 0,
+        "reads": 5,
+        "score": 7.65,
+        "yours": false,
+        "topic_id": 474,
+        "topic_slug": "releasing-oshw-alongside-non-oshw-version",
+        "display_username": "jgriessen",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 756,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 759,
+        "name": "Justin  White",
+        "username": "blazini",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/b/ea666f/{size}.png",
+        "created_at": "2019-09-05T03:51:46.845Z",
+        "cooked": "<p>So would it be reasonable to say upload the design files to public git and include a licence text under say   \u201cCreative Commons - Attribution - ShareAlike 3.0\u201d with lines preceding stating that \"the originator and licencor of this hardware design  retains the right to create, commission the creation and deploy  derivative works based on this design with proprietary and undistributed  changes and modifications as desired</p>\n<p>All derivative works not comissioned and not approved by  must adhere to the above mentioned licence and retain the OSHW logo.\"</p>\n<p>Something along those lines is what I would like to do.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "updated_at": "2019-09-05T03:51:46.845Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "avg_time": 8,
+        "incoming_link_count": 0,
+        "reads": 4,
+        "score": 1.2,
+        "yours": false,
+        "topic_id": 474,
+        "topic_slug": "releasing-oshw-alongside-non-oshw-version",
+        "display_username": "Justin  White",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "username": "jgriessen",
+          "avatar_template": "/user_avatar/community.oshwa.org/jgriessen/{size}/33_1.png"
+        },
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1162,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      754,
+      756,
+      759
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      1908
+    ],
+    [
+      2,
+      1906
+    ],
+    [
+      3,
+      1900
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 474,
+  "title": "Releasing OSHW alongside non-OSHW version",
+  "fancy_title": "Releasing OSHW alongside non-OSHW version",
+  "posts_count": 3,
+  "created_at": "2019-08-28T23:23:13.534Z",
+  "views": 575,
+  "reply_count": 1,
+  "like_count": 0,
+  "last_posted_at": "2019-09-05T03:51:46.845Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "releasing-oshw-alongside-non-oshw-version",
+  "category_id": 5,
+  "word_count": 334,
+  "deleted_at": null,
+  "user_id": 1162,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_474",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1162,
+      "username": "blazini",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/b/ea666f/{size}.png"
+    },
+    "last_poster": {
+      "id": 1162,
+      "username": "blazini",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/b/ea666f/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 1162,
+        "username": "blazini",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/b/ea666f/{size}.png",
+        "post_count": 2,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 756,
+        "username": "jgriessen",
+        "avatar_template": "/user_avatar/community.oshwa.org/jgriessen/{size}/33_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 2
+}

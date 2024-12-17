@@ -1,0 +1,453 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 228,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2017-03-09T18:12:45.778Z",
+        "cooked": "<p>Great job to OSHWA team for setting up this new forum!</p>\n<p>Someone just pointed out to me though that it doesn\u2019t seem that https is available.</p>\n<p><a class=\"mention\" href=\"/u/kellbot\">@kellbot</a> <a class=\"mention\" href=\"/u/caleb\">@caleb</a>: Are there plans to add a TLS/SSL cert from a service such as Let\u2019s Encrypt?</p>\n<p>Thanks,<br>\nDrew</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2017-03-09T18:13:29.652Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 29,
+        "incoming_link_count": 1,
+        "reads": 11,
+        "score": 28.65,
+        "yours": false,
+        "topic_id": 76,
+        "topic_slug": "https-for-this-forum",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 229,
+        "name": "kellbot",
+        "username": "kellbot",
+        "avatar_template": "/user_avatar/community.oshwa.org/kellbot/{size}/5_1.png",
+        "created_at": "2017-03-09T19:20:29.000Z",
+        "cooked": "<p>Yep! It\u2019s on my to-do list, just been busy with the blogs the past few<br>\nweeks. We just started using Lets Encrypt over there, still a few kinks to<br>\nwork out with content that was hard coded to use http.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2017-03-09T19:24:27.054Z",
+        "reply_count": 0,
+        "reply_to_post_number": 1,
+        "quote_count": 0,
+        "avg_time": 19,
+        "incoming_link_count": 0,
+        "reads": 11,
+        "score": 3.15,
+        "yours": false,
+        "topic_id": 76,
+        "topic_slug": "https-for-this-forum",
+        "display_username": "kellbot",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "username": "drewfustini",
+          "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+        },
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 4,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false,
+        "via_email": true
+      },
+      {
+        "id": 248,
+        "name": "Victor Aprea",
+        "username": "vicatcu",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/v/b9e5f3/{size}.png",
+        "created_at": "2017-04-10T22:24:07.350Z",
+        "cooked": "<p>FWIW <a href=\"https://meta.discourse.org/t/setting-up-lets-encrypt/40709\" rel=\"nofollow noopener\">https://meta.discourse.org/t/setting-up-lets-encrypt/40709</a> explains step-by-step how to do it. I\u2019ve done it on a few sites, it\u2019s not too bad to get it set up and then it just takes care of itself from then on <img src=\"//community.oshwa.org/images/emoji/twitter/+1.png?v=5\" title=\":+1:\" class=\"emoji\" alt=\":+1:\">.</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "updated_at": "2017-04-10T22:24:07.350Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 8,
+        "incoming_link_count": 0,
+        "reads": 9,
+        "score": 2.2,
+        "yours": false,
+        "topic_id": 76,
+        "topic_slug": "https-for-this-forum",
+        "display_username": "Victor Aprea",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://meta.discourse.org/t/setting-up-lets-encrypt/40709",
+            "internal": false,
+            "reflection": false,
+            "title": "Setting up Let's Encrypt - sysadmin - Discourse Meta",
+            "clicks": 3
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1043,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      228,
+      229,
+      248
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      2810
+    ],
+    [
+      3,
+      2778
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 76,
+  "title": "HTTPS for this forum?",
+  "fancy_title": "HTTPS for this forum?",
+  "posts_count": 3,
+  "created_at": "2017-03-09T18:12:45.359Z",
+  "views": 1209,
+  "reply_count": 1,
+  "like_count": 1,
+  "last_posted_at": "2017-04-10T22:24:07.350Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "https-for-this-forum",
+  "category_id": 5,
+  "word_count": 139,
+  "deleted_at": null,
+  "user_id": 1029,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_76",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "last_poster": {
+      "id": 1043,
+      "username": "vicatcu",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/v/b9e5f3/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 4,
+        "username": "kellbot",
+        "avatar_template": "/user_avatar/community.oshwa.org/kellbot/{size}/5_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1029,
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1043,
+        "username": "vicatcu",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/v/b9e5f3/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://meta.discourse.org/t/setting-up-lets-encrypt/40709",
+        "title": "Setting up Let's Encrypt - sysadmin - Discourse Meta",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1043,
+        "domain": "meta.discourse.org",
+        "root_domain": "discourse.org"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 3,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 3
+}

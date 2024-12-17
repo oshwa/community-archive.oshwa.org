@@ -1,0 +1,27 @@
+[
+  {
+    "id": -1,
+    "username": "system",
+    "avatar_template": "/user_avatar/community.oshwa.org/system/{size}/1_1.png"
+  },
+  {
+    "id": 1198,
+    "username": "goatdude",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/g/87869e/{size}.png"
+  },
+  {
+    "id": 955,
+    "username": "marcinose",
+    "avatar_template": "/user_avatar/community.oshwa.org/marcinose/{size}/131_1.png"
+  },
+  {
+    "id": 82,
+    "username": "hal9000",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/h/c89c15/{size}.png"
+  },
+  {
+    "id": 90,
+    "username": "aileen",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/a/b5a626/{size}.png"
+  }
+]

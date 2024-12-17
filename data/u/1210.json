@@ -1,0 +1,136 @@
+{
+  "user_badges": [
+    {
+      "id": 1230,
+      "granted_at": "2024-04-23T10:06:47.610Z",
+      "count": 1,
+      "post_id": 1024,
+      "post_number": 1,
+      "badge_id": 42,
+      "user_id": 1210,
+      "granted_by_id": -1,
+      "topic_id": 683
+    }
+  ],
+  "badges": [
+    {
+      "id": 42,
+      "name": "First Onebox",
+      "description": "Posted a link that was oneboxed",
+      "grant_count": 25,
+      "allow_title": false,
+      "multiple_grant": false,
+      "icon": "fa-certificate",
+      "image": null,
+      "listable": true,
+      "enabled": true,
+      "badge_grouping_id": 1,
+      "system": true,
+      "slug": "first-onebox",
+      "manually_grantable": false,
+      "badge_type_id": 3
+    }
+  ],
+  "badge_types": [
+    {
+      "id": 3,
+      "name": "Bronze",
+      "sort_order": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1210,
+      "username": "sswcharlie",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png",
+      "name": "Charles Harris",
+      "moderator": false,
+      "admin": false
+    },
+    {
+      "id": -1,
+      "username": "system",
+      "avatar_template": "/user_avatar/community.oshwa.org/system/{size}/1_1.png",
+      "name": "system",
+      "moderator": true,
+      "admin": true
+    }
+  ],
+  "topics": [
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3
+    }
+  ],
+  "user": {
+    "id": 1210,
+    "username": "sswcharlie",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png",
+    "name": "Charles Harris",
+    "last_posted_at": "2024-05-01T00:43:36.502Z",
+    "last_seen_at": "2024-05-01T00:43:34.266Z",
+    "created_at": "2024-04-23T09:55:41.158Z",
+    "can_edit": false,
+    "can_edit_username": false,
+    "can_edit_email": false,
+    "can_edit_name": false,
+    "can_send_private_messages": false,
+    "can_send_private_message_to_user": false,
+    "trust_level": 0,
+    "moderator": false,
+    "admin": false,
+    "title": null,
+    "uploaded_avatar_id": null,
+    "badge_count": 1,
+    "custom_fields": {},
+    "pending_count": 0,
+    "profile_view_count": 13,
+    "time_read": 144,
+    "recent_time_read": 0,
+    "primary_group_name": null,
+    "primary_group_flair_url": null,
+    "primary_group_flair_bg_color": null,
+    "primary_group_flair_color": null,
+    "invited_by": null,
+    "groups": [
+      {
+        "id": 10,
+        "automatic": true,
+        "name": "trust_level_0",
+        "display_name": "trust_level_0",
+        "user_count": 1195,
+        "mentionable_level": 0,
+        "messageable_level": 0,
+        "visibility_level": 0,
+        "automatic_membership_email_domains": null,
+        "automatic_membership_retroactive": false,
+        "primary_group": false,
+        "title": null,
+        "grant_trust_level": null,
+        "flair_url": null,
+        "flair_bg_color": null,
+        "flair_color": null,
+        "bio_cooked": null,
+        "public_admission": false,
+        "public_exit": false,
+        "allow_membership_requests": false,
+        "full_name": null,
+        "default_notification_level": 3,
+        "membership_request_template": null
+      }
+    ],
+    "group_users": [
+      {
+        "group_id": 10,
+        "user_id": 1210,
+        "notification_level": 3
+      }
+    ],
+    "featured_user_badge_ids": [
+      1230
+    ]
+  }
+}

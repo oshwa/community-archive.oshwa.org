@@ -1,0 +1,515 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 921,
+        "name": "pt",
+        "username": "philliptorrone",
+        "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png",
+        "created_at": "2023-08-23T16:13:41.247Z",
+        "cooked": "<p>Hi hi OSHWA folks -</p>\n<p>This is a request for comment from someone at OSHWA regarding the open-source hardware article I published on July 12, 2023 - over a month ago:<br>\n\u201cWhen Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies\u201d<br>\n<a href=\"https://adafruit.com/changingfaceoshw\" rel=\"nofollow noopener\">https://adafruit.com/changingfaceoshw</a></p>\n<p>sent an email to the folks I know and the general info@ email address as well - Prusa seems to want OSHWA to look in to some of the challenges with 3D printing and open-source hardware.</p>\n<p>====================<br>\nFollowing up, Josef Prusa stated:</p>\n<blockquote>\n<p><em>\u201cBy the way, Chinese manufacturers are chipping away on this rock normalizing the misuse of the open-source community for years, and I am a bit sad to see nothing from OSHWA on this topic. Maybe it good time to do independent research on the state of 3D printing current state by OSHWA now \u2013 it is undertaking soo huge, the community or one single company can\u2019t do it on its own.\u201d</em></p>\n</blockquote>\n<p>It\u2019s been a month since the article was published and it made the rounds in various news sites and electronic communities, I reached out to Alicia Gibb, Executive Director of the Open Source Hardware Association (OSHWA) and some of the OSHWA board members to ask if they have since reached out to Prusa regarding the claim there is \u201cnothing from OSHWA on this topic\u201d.</p>\n<p>\u2026</p>\n<p>It\u2019s been a month since the article made the rounds, and I\u2019ve asked for official comment over email and here, will update the article on Monday August 28th.</p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2023-08-23T16:13:41.247Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 125,
+        "incoming_link_count": 2,
+        "reads": 7,
+        "score": 32.65,
+        "yours": false,
+        "topic_id": 612,
+        "topic_slug": "oshwa-and-open-source-3d-printing-request-for-comment",
+        "display_username": "pt",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://adafruit.com/changingfaceoshw",
+            "internal": false,
+            "reflection": false,
+            "clicks": 3
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1190,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 923,
+        "name": "lee wilkins",
+        "username": "lee",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/l/bc8723/{size}.png",
+        "created_at": "2023-08-24T16:56:08.117Z",
+        "cooked": "<p>Hi Phil,</p>\n<p>We have already indicated to you via email that we would like to be left out of this post.   I have also shared this same comment in reply to your discord post.</p>\n<p>We are in the process of working though several items relating to this issue. This is a sensitive and complex topic, and we fully intend to weigh in on our own timeline. We are seeking community consultation, including collaborating with Chinese makers, and it will take time for us to educate ourselves and help educate our community.</p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2023-08-24T16:56:08.117Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 110,
+        "incoming_link_count": 0,
+        "reads": 7,
+        "score": 11.9,
+        "yours": false,
+        "topic_id": 612,
+        "topic_slug": "oshwa-and-open-source-3d-printing-request-for-comment",
+        "display_username": "lee wilkins",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": true,
+        "staff": true,
+        "user_id": 1191,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 929,
+        "name": null,
+        "username": "Nektar",
+        "avatar_template": "/user_avatar/community.oshwa.org/nektar/{size}/146_1.png",
+        "created_at": "2023-08-26T09:53:11.862Z",
+        "cooked": "<p>lol. Open Source Hardware Association don\u2019t talk about Open Source hardware?</p>",
+        "post_number": 3,
+        "post_type": 1,
+        "updated_at": "2023-08-26T09:53:11.862Z",
+        "reply_count": 0,
+        "reply_to_post_number": 2,
+        "quote_count": 0,
+        "avg_time": 30,
+        "incoming_link_count": 29,
+        "reads": 6,
+        "score": 147.7,
+        "yours": false,
+        "topic_id": 612,
+        "topic_slug": "oshwa-and-open-source-3d-printing-request-for-comment",
+        "display_username": null,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "username": "lee",
+          "avatar_template": "/letter_avatar_proxy/v2/letter/l/bc8723/{size}.png"
+        },
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1193,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 938,
+        "name": null,
+        "username": "Matthias",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/m/cdc98d/{size}.png",
+        "created_at": "2023-09-20T22:30:31.375Z",
+        "cooked": "<p>This issue certainly is not limited to actors of chinese nationality, isn\u2019t it ? I am familiar with several projects based in other countries who practice the same form of appropriation. I am sure there exists projects based in china who have self certified exercising due diligence. I suggest keeping the whole picture in mind.</p>",
+        "post_number": 4,
+        "post_type": 1,
+        "updated_at": "2023-09-20T22:30:31.375Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 27,
+        "incoming_link_count": 0,
+        "reads": 3,
+        "score": 1.95,
+        "yours": false,
+        "topic_id": 612,
+        "topic_slug": "oshwa-and-open-source-3d-printing-request-for-comment",
+        "display_username": null,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1194,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      921,
+      923,
+      929,
+      938
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      452
+    ],
+    [
+      2,
+      451
+    ],
+    [
+      3,
+      449
+    ],
+    [
+      4,
+      424
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 612,
+  "title": "OSHWA and open-source 3D printing - request for comment",
+  "fancy_title": "OSHWA and open-source 3D printing - request for comment",
+  "posts_count": 4,
+  "created_at": "2023-08-23T16:13:41.173Z",
+  "views": 595,
+  "reply_count": 1,
+  "like_count": 1,
+  "last_posted_at": "2023-09-20T22:30:31.375Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "oshwa-and-open-source-3d-printing-request-for-comment",
+  "category_id": 12,
+  "word_count": 418,
+  "deleted_at": null,
+  "user_id": 1190,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_612",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1190,
+      "username": "philliptorrone",
+      "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+    },
+    "last_poster": {
+      "id": 1194,
+      "username": "Matthias",
+      "avatar_template": "/letter_avatar_proxy/v2/letter/m/cdc98d/{size}.png"
+    },
+    "participants": [
+      {
+        "id": 1190,
+        "username": "philliptorrone",
+        "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1191,
+        "username": "lee",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/l/bc8723/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1193,
+        "username": "Nektar",
+        "avatar_template": "/user_avatar/community.oshwa.org/nektar/{size}/146_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      },
+      {
+        "id": 1194,
+        "username": "Matthias",
+        "avatar_template": "/letter_avatar_proxy/v2/letter/m/cdc98d/{size}.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://adafruit.com/changingfaceoshw",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1190,
+        "domain": "adafruit.com",
+        "root_domain": "adafruit.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 4,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 4
+}

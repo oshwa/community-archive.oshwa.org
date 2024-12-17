@@ -1,0 +1,796 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 476,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-08-06T13:45:02.467Z",
+        "cooked": "<p>Photo of Rev 2:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/39ab80d454f808134eff04194a1bb6625f795759.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/39ab80d454f808134eff04194a1bb6625f795759\" title=\"6202441533283525215.jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/39ab80d454f808134eff04194a1bb6625f795759_1_610x500.jpg\" alt=\"6202441533283525215\" width=\"610\" height=\"500\"><div class=\"meta\">\n<span class=\"filename\">6202441533283525215.jpg</span><span class=\"informations\">1480x1212 240 KB</span><span class=\"expand\"></span>\n</div></a></div></p>\n<p>Gallery: <a href=\"https://bit.ly/2vovSVz\" rel=\"nofollow noopener\">https://bit.ly/2vovSVz</a></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2018-08-06T20:15:48.335Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 27,
+        "incoming_link_count": 67,
+        "reads": 9,
+        "score": 398.15,
+        "yours": false,
+        "topic_id": 279,
+        "topic_slug": "badge-for-the-ohs18",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://bit.ly/2vovSVz",
+            "internal": false,
+            "reflection": false,
+            "clicks": 2
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/39ab80d454f808134eff04194a1bb6625f795759.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [
+          {
+            "id": 2,
+            "count": 1
+          }
+        ],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 503,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-08-06T13:47:28.664Z",
+        "cooked": "<p>Update on the OHS18 badge project log:<br>\n<strong>Rev 3 ordered, and photos of Rev 2</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/150541-rev-3-prototype-ordered\" target=\"_blank\" rel=\"nofollow noopener\">hackaday.io</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:610/500;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/cf5d603cc2dc438493033d15ff4811e64f86fde2.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/150541-rev-3-prototype-ordered\" target=\"_blank\" rel=\"nofollow noopener\">Rev 3 prototype ordered | Details | Hackaday.io</a></h3>\n\n<p> OSH Park shared project for the Rev 3 by @Alex Camilo\u00a0: \n\n https://oshpark.com/orders/2snBbTBT \n\n\n\n We expect this to... </p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>Preview of Rev 3:<br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/30bd877ad1822961622845af187e52b4b32ec718.png\" data-download-href=\"//community.oshwa.org/uploads/default/30bd877ad1822961622845af187e52b4b32ec718\" title=\"a.png\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/30bd877ad1822961622845af187e52b4b32ec718_1_690x429.png\" alt=\"a\" width=\"690\" height=\"429\"><div class=\"meta\">\n<span class=\"filename\">a.png</span><span class=\"informations\">2128x1324 111 KB</span><span class=\"expand\"></span>\n</div></a></div></p>",
+        "post_number": 2,
+        "post_type": 1,
+        "updated_at": "2018-08-06T20:15:22.293Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 13,
+        "incoming_link_count": 4,
+        "reads": 7,
+        "score": 22.05,
+        "yours": false,
+        "topic_id": 279,
+        "topic_slug": "badge-for-the-ohs18",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/150541-rev-3-prototype-ordered",
+            "internal": false,
+            "reflection": false,
+            "title": "Rev 3 prototype ordered | Details | Hackaday.io",
+            "clicks": 10
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/30bd877ad1822961622845af187e52b4b32ec718.png",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 533,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-08-06T13:49:05.436Z",
+        "cooked": "<p><strong>Resources for the 2018 Open Hardware Summit badge:</strong></p>\n<p>GitHub repo for hardware design<br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://assets-cdn.github.com/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://github.com/OSHPark/ohs18badge\" target=\"_blank\" rel=\"nofollow noopener\">GitHub</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"//community.oshwa.org/uploads/default/original/1X/7c090d80befb2127575f6103ff0a1187705c35d6.png\" class=\"thumbnail onebox-avatar\" width=\"400\" height=\"400\">\n\n<h3><a href=\"https://github.com/OSHPark/ohs18badge\" target=\"_blank\" rel=\"nofollow noopener\">OSHPark/ohs18badge</a></h3>\n\n<p>ohs18badge - Open Hardware Summit 2018 Badge</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>Hackaday project chat room:<br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://hackaday.io/messages/room/224918\" target=\"_blank\" rel=\"nofollow noopener\">hackaday.io</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:435/375;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/64d92f9903c561e34ba51590aab27dbc8fbb004d.png\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://hackaday.io/messages/room/224918\" target=\"_blank\" rel=\"nofollow noopener\">Public chat for 2018 Open Hardware Summit badge | Hackaday.io</a></h3>\n\n<p>Participate in the public chat for 2018 Open Hardware Summit badge!</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>Hackaday project page:<br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://hackaday.io/project/112222-2018-open-hardware-summit-badge\" target=\"_blank\" rel=\"nofollow noopener\">hackaday.io</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"//community.oshwa.org/uploads/default/original/1X/0ff1c09f1c7bf779434cd411e7661d08cbffe432.jpg\" class=\"thumbnail onebox-avatar\" width=\"500\" height=\"500\">\n\n<h3><a href=\"https://hackaday.io/project/112222-2018-open-hardware-summit-badge\" target=\"_blank\" rel=\"nofollow noopener\">2018 Open Hardware Summit badge</a></h3>\n\n<p>OSH Park will be producing electronic conference badges for the 2018 Open Hardware Summit. Hardware design by Alex Camilo based on concept from ESP trINKet by Mike Rankin. Features for the OHS18 badge: ESP32 microcontroller with built-in WiFi and...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>Rev 3 shared project on OSH Park<br>\n<a href=\"https://bit.ly/2ALDZ3J\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">https://bit.ly/2ALDZ3J</a></p>",
+        "post_number": 3,
+        "post_type": 1,
+        "updated_at": "2018-08-06T13:49:05.436Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 8,
+        "incoming_link_count": 4,
+        "reads": 6,
+        "score": 21.6,
+        "yours": false,
+        "topic_id": 279,
+        "topic_slug": "badge-for-the-ohs18",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://github.com/OSHPark/ohs18badge",
+            "internal": false,
+            "reflection": false,
+            "title": "GitHub - OSHPark/ohs18badge: Open Hardware Summit 2018 Badge",
+            "clicks": 11
+          },
+          {
+            "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge",
+            "internal": false,
+            "reflection": false,
+            "title": "2018 Open Hardware Summit badge | Hackaday.io",
+            "clicks": 10
+          },
+          {
+            "url": "https://hackaday.io/messages/room/224918",
+            "internal": false,
+            "reflection": false,
+            "title": "Messages | Hackaday.io",
+            "clicks": 5
+          },
+          {
+            "url": "https://bit.ly/2ALDZ3J",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 585,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-09-17T19:42:31.656Z",
+        "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/35ec07c980be35881d684359b7e01b87ad5d217a.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/35ec07c980be35881d684359b7e01b87ad5d217a\" title=\"4663241536763907298 (1).jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/35ec07c980be35881d684359b7e01b87ad5d217a_1_690x405.jpg\" alt=\"4663241536763907298%20(1)\" width=\"690\" height=\"405\"><div class=\"meta\">\n<span class=\"filename\">4663241536763907298 (1).jpg</span><span class=\"informations\">1243x730 449 KB</span><span class=\"expand\"></span>\n</div></a></div><br>\n<strong>All 300 Open Hardware Summit badges assembled by Screaming Circuits have arrived!</strong></p>\n<p>Thanks to Duane Benson and the whole team for their outstanding support of the Open Hardware Summit 2018 badge project!</p>\n<p><a href=\"https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/152751-screaming-circuits-shipment-has-arrived\" rel=\"nofollow noopener\">Check out the Hackaday project for more info</a></p>",
+        "post_number": 4,
+        "post_type": 1,
+        "updated_at": "2018-09-17T19:42:31.656Z",
+        "reply_count": 1,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 5,
+        "incoming_link_count": 0,
+        "reads": 4,
+        "score": 6.05,
+        "yours": false,
+        "topic_id": 279,
+        "topic_slug": "badge-for-the-ohs18",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/152751-screaming-circuits-shipment-has-arrived",
+            "internal": false,
+            "reflection": false,
+            "title": "Screaming Circuits shipment has arrived | Details | Hackaday.io",
+            "clicks": 3
+          },
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/35ec07c980be35881d684359b7e01b87ad5d217a.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 586,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-09-17T19:44:38.257Z",
+        "cooked": "<p><strong>The OHS18 badge is <a href=\"https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/150399-ohs18-badge-certified-as-oshw\" rel=\"nofollow noopener\">OSHW ceritifed US00133</a>! <img src=\"//community.oshwa.org/images/emoji/twitter/slight_smile.png?v=5\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></strong><br>\n<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"//community.oshwa.org/uploads/default/original/1X/1cf37fc07d5ee40358abc9794e73180ed7d07123.jpg\" data-download-href=\"//community.oshwa.org/uploads/default/1cf37fc07d5ee40358abc9794e73180ed7d07123\" title=\"Screenshot from 2018-09-17 14-45-27.jpg\"><img src=\"//community.oshwa.org/uploads/default/optimized/1X/1cf37fc07d5ee40358abc9794e73180ed7d07123_1_690x431.jpg\" alt=\"Screenshot%20from%202018-09-17%2014-45-27\" width=\"690\" height=\"431\"><div class=\"meta\">\n<span class=\"filename\">Screenshot from 2018-09-17 14-45-27.jpg</span><span class=\"informations\">1440x900 679 KB</span><span class=\"expand\"></span>\n</div></a></div></p>",
+        "post_number": 5,
+        "post_type": 1,
+        "updated_at": "2018-09-17T19:46:51.029Z",
+        "reply_count": 0,
+        "reply_to_post_number": 4,
+        "quote_count": 0,
+        "avg_time": 3,
+        "incoming_link_count": 0,
+        "reads": 4,
+        "score": 0.95,
+        "yours": false,
+        "topic_id": 279,
+        "topic_slug": "badge-for-the-ohs18",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 2,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "//community.oshwa.org/uploads/default/original/1X/1cf37fc07d5ee40358abc9794e73180ed7d07123.jpg",
+            "internal": true,
+            "reflection": false,
+            "clicks": 0
+          },
+          {
+            "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/150399-ohs18-badge-certified-as-oshw",
+            "internal": false,
+            "reflection": false,
+            "title": "OHS18 badge certified as OSHW | Details | Hackaday.io",
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "reply_to_user": {
+          "username": "drewfustini",
+          "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+        },
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      },
+      {
+        "id": 614,
+        "name": "Drew Fustini",
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "created_at": "2018-10-07T17:17:35.980Z",
+        "cooked": "<p>I have been writing blog posts that explore that capabilities of the badge.</p>\n<p>Here is the list so far:<br>\n<strong>Open Hardware Summit badge: adapter board for USB-to-serial cable</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://s1.wp.com/i/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/\" target=\"_blank\" title=\"11:20PM - 05 October 2018\" rel=\"nofollow noopener\">OSH Park \u2013 5 Oct 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"//community.oshwa.org/uploads/default/original/1X/3e1f1f729cbdde405ed4e5d875b3347ad4fce453.jpg\" class=\"thumbnail onebox-avatar\" width=\"330\" height=\"330\">\n\n<h3><a href=\"http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/\" target=\"_blank\" rel=\"nofollow noopener\">Open Hardware Summit badge: adapter board for USB-to-serial cable</a></h3>\n\n<p>The 2018 Open Hardware Summit badge\u00a0features an ESP32 microcontroller running MicroPython firmware.\u00a0 The firmware provides a Python interpreter prompt (REPL) on the serial port which allows interac\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p><strong>Open Hardware Summit badge: Magic 8-Ball app</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://s1.wp.com/i/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://blog.oshpark.com/2018/10/04/open-hardware-summit-badge-magic-8-ball-app/\" target=\"_blank\" title=\"11:51PM - 04 October 2018\" rel=\"nofollow noopener\">OSH Park \u2013 4 Oct 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:666/500;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/7ca800cbb4b0fac2d3aa3049b9be688639b745ae.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://blog.oshpark.com/2018/10/04/open-hardware-summit-badge-magic-8-ball-app/\" target=\"_blank\" rel=\"nofollow noopener\">Open Hardware Summit badge: Magic 8-Ball app</a></h3>\n\n<p>Thanks to\u00a0@Steve Pomeroy\u00a0for creating this MicroPython demo app for the Open Hardware Summit badge: ohs18apps/magic8ball.py import gxgde0213b1 import font16 import font12 import urandom import time\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p><strong>The Exquisite Badges Of Open Hardware Summit</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://s1.wp.com/i/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://blog.oshpark.com/2018/10/02/the-exquisite-badges-of-open-hardware-summit/\" target=\"_blank\" title=\"02:07PM - 02 October 2018\" rel=\"nofollow noopener\">OSH Park \u2013 2 Oct 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:690/323;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/83b71440f673a70b4ab78338e4db655dd64aeda1.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://blog.oshpark.com/2018/10/02/the-exquisite-badges-of-open-hardware-summit/\" target=\"_blank\" rel=\"nofollow noopener\">The Exquisite Badges Of Open Hardware Summit</a></h3>\n\n<p>The past few years have been all about electronic conference badges and this year is no different. Right now, we\u2019re setting up at the Open Hardware Summit\u2026 546 more\u00a0words via The Exquisite Badges O\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p><strong>Open Hardware Summit 2018 badge</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://s1.wp.com/i/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://blog.oshpark.com/2018/09/27/open-hardware-summit-2018-badge-2/\" target=\"_blank\" title=\"05:54AM - 27 September 2018\" rel=\"nofollow noopener\">OSH Park \u2013 27 Sep 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:440/330;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/529e940dd039e7647a07a4298ef5edd91f24d574.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://blog.oshpark.com/2018/09/27/open-hardware-summit-2018-badge-2/\" target=\"_blank\" rel=\"nofollow noopener\">Open Hardware Summit 2018 badge</a></h3>\n\n<p>Find out more about the Open Hardware Summit (@ohsummit) badge hardware design and MicroPython firmware by visiting @hackadayio project page and join our project chat room</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p><strong>Live from Artisan\u2019s Asylum!</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://s1.wp.com/i/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://blog.oshpark.com/2018/09/26/live-from-artisans-asylum/\" target=\"_blank\" title=\"04:02AM - 26 September 2018\" rel=\"nofollow noopener\">OSH Park \u2013 26 Sep 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:248/330;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/81064edee2a4e4c21dff62667cbe772c85bb84b6.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://blog.oshpark.com/2018/09/26/live-from-artisans-asylum/\" target=\"_blank\" rel=\"nofollow noopener\">Live from Artisan\u2019s Asylum!</a></h3>\n\n<p>@Alex Camilo\u00a0,\u00a0@AVR\u00a0,\u00a0@Jimmie Rodgers\u00a0,\u00a0@Andrew Sowa\u00a0and Drew Fustini are all at Artisan\u2019s\u00a0 Asylum tonight and the badge firmware is coming together quite nicely! Thanks so much to\u00a0Artisan\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p><strong>Open Hardware Summit: learn-to-solder badge add-on</strong><br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://s1.wp.com/i/favicon.ico\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://blog.oshpark.com/2018/09/24/ohs-2018-badge-add-on/\" target=\"_blank\" title=\"02:25PM - 24 September 2018\" rel=\"nofollow noopener\">OSH Park \u2013 24 Sep 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:440/329;\"><img src=\"//community.oshwa.org/uploads/default/original/1X/f48f5f8d6dfa1a551ae1ec79391e58f89a0a90a8.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://blog.oshpark.com/2018/09/24/ohs-2018-badge-add-on/\" target=\"_blank\" rel=\"nofollow noopener\">Open Hardware Summit: learn-to-solder badge add-on</a></h3>\n\n<p>The Open Hardware Summit is coming on Thursday, September 27th at MIT.\u00a0 OSH Park and Screaming Circuits are producing an electronic conference badge this year for the Summit.\u00a0 The badge features an\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>Please email me if any questions drew AT oshpark DOT com</p>",
+        "post_number": 6,
+        "post_type": 1,
+        "updated_at": "2018-10-07T17:17:35.980Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 1,
+        "incoming_link_count": 0,
+        "reads": 2,
+        "score": 0.45,
+        "yours": false,
+        "topic_id": 279,
+        "topic_slug": "badge-for-the-ohs18",
+        "display_username": "Drew Fustini",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "http://blog.oshpark.com/2018/09/27/open-hardware-summit-2018-badge-2/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Hardware Summit 2018 badge \u2013 OSH Park",
+            "clicks": 3
+          },
+          {
+            "url": "http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Hardware Summit badge: adapter board for USB-to-serial cable \u2013 OSH Park",
+            "clicks": 3
+          },
+          {
+            "url": "http://blog.oshpark.com/2018/10/04/open-hardware-summit-badge-magic-8-ball-app/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Hardware Summit badge: Magic 8-Ball app \u2013 OSH Park",
+            "clicks": 1
+          },
+          {
+            "url": "http://blog.oshpark.com/2018/10/02/the-exquisite-badges-of-open-hardware-summit/",
+            "internal": false,
+            "reflection": false,
+            "title": "The Exquisite Badges Of Open Hardware Summit \u2013 OSH Park",
+            "clicks": 1
+          },
+          {
+            "url": "http://blog.oshpark.com/2018/09/24/ohs-2018-badge-add-on/",
+            "internal": false,
+            "reflection": false,
+            "title": "Open Hardware Summit: learn-to-solder badge add-on \u2013 OSH Park",
+            "clicks": 0
+          },
+          {
+            "url": "http://blog.oshpark.com/2018/09/26/live-from-artisans-asylum/",
+            "internal": false,
+            "reflection": false,
+            "title": "Live from Artisan\u2019s Asylum! \u2013 OSH Park",
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1029,
+        "hidden": false,
+        "trust_level": 1,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      476,
+      503,
+      533,
+      585,
+      586,
+      614
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      2295
+    ],
+    [
+      4,
+      2253
+    ],
+    [
+      6,
+      2233
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+      "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png",
+      "created_at": "2024-01-06T14:58:22.406Z",
+      "last_posted_at": "2024-01-06T14:58:22.492Z",
+      "bumped": true,
+      "bumped_at": "2024-01-06T14:58:22.492Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 383,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 279,
+  "title": "Badge for the OHS18",
+  "fancy_title": "Badge for the OHS18",
+  "posts_count": 6,
+  "created_at": "2018-08-06T13:45:02.366Z",
+  "views": 1149,
+  "reply_count": 1,
+  "like_count": 1,
+  "last_posted_at": "2018-10-07T17:17:35.980Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "badge-for-the-ohs18",
+  "category_id": 15,
+  "word_count": 341,
+  "deleted_at": null,
+  "user_id": 1029,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_279",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "last_poster": {
+      "id": 1029,
+      "username": "drewfustini",
+      "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png"
+    },
+    "participants": [
+      {
+        "id": 1029,
+        "username": "drewfustini",
+        "avatar_template": "/user_avatar/community.oshwa.org/drewfustini/{size}/12_1.png",
+        "post_count": 6,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://github.com/OSHPark/ohs18badge",
+        "title": "GitHub - OSHPark/ohs18badge: Open Hardware Summit 2018 Badge",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 11,
+        "user_id": 1029,
+        "domain": "github.com",
+        "root_domain": "github.com"
+      },
+      {
+        "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge",
+        "title": "2018 Open Hardware Summit badge | Hackaday.io",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 10,
+        "user_id": 1029,
+        "domain": "hackaday.io",
+        "root_domain": "hackaday.io"
+      },
+      {
+        "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/150541-rev-3-prototype-ordered",
+        "title": "Rev 3 prototype ordered | Details | Hackaday.io",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 10,
+        "user_id": 1029,
+        "domain": "hackaday.io",
+        "root_domain": "hackaday.io"
+      },
+      {
+        "url": "https://hackaday.io/messages/room/224918",
+        "title": "Messages | Hackaday.io",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 1029,
+        "domain": "hackaday.io",
+        "root_domain": "hackaday.io"
+      },
+      {
+        "url": "https://hackaday.io/project/112222-2018-open-hardware-summit-badge/log/152751-screaming-circuits-shipment-has-arrived",
+        "title": "Screaming Circuits shipment has arrived | Details | Hackaday.io",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1029,
+        "domain": "hackaday.io",
+        "root_domain": "hackaday.io"
+      },
+      {
+        "url": "http://blog.oshpark.com/2018/10/05/open-hardware-summit-badge-adapter-board-ftdi-cable/",
+        "title": "Open Hardware Summit badge: adapter board for USB-to-serial cable \u2013 OSH Park",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1029,
+        "domain": "blog.oshpark.com",
+        "root_domain": "oshpark.com"
+      },
+      {
+        "url": "http://blog.oshpark.com/2018/09/27/open-hardware-summit-2018-badge-2/",
+        "title": "Open Hardware Summit 2018 badge \u2013 OSH Park",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 3,
+        "user_id": 1029,
+        "domain": "blog.oshpark.com",
+        "root_domain": "oshpark.com"
+      },
+      {
+        "url": "https://bit.ly/2vovSVz",
+        "title": null,
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 2,
+        "user_id": 1029,
+        "domain": "bit.ly",
+        "root_domain": "bit.ly"
+      },
+      {
+        "url": "http://blog.oshpark.com/2018/10/04/open-hardware-summit-badge-magic-8-ball-app/",
+        "title": "Open Hardware Summit badge: Magic 8-Ball app \u2013 OSH Park",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 1029,
+        "domain": "blog.oshpark.com",
+        "root_domain": "oshpark.com"
+      },
+      {
+        "url": "http://blog.oshpark.com/2018/10/02/the-exquisite-badges-of-open-hardware-summit/",
+        "title": "The Exquisite Badges Of Open Hardware Summit \u2013 OSH Park",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 1,
+        "user_id": 1029,
+        "domain": "blog.oshpark.com",
+        "root_domain": "oshpark.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 6,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}

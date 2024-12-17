@@ -1,0 +1,69 @@
+{
+  "user_badges": [],
+  "user": {
+    "id": 1143,
+    "username": "Shreegowda",
+    "avatar_template": "/letter_avatar_proxy/v2/letter/s/dfb087/{size}.png",
+    "name": "SHREE GOWDAQ",
+    "last_posted_at": "2018-12-06T13:56:22.679Z",
+    "last_seen_at": "2018-12-06T13:57:05.253Z",
+    "created_at": "2018-12-06T13:52:25.258Z",
+    "can_edit": false,
+    "can_edit_username": false,
+    "can_edit_email": false,
+    "can_edit_name": false,
+    "can_send_private_messages": false,
+    "can_send_private_message_to_user": false,
+    "trust_level": 0,
+    "moderator": false,
+    "admin": false,
+    "title": null,
+    "uploaded_avatar_id": null,
+    "badge_count": 0,
+    "custom_fields": {},
+    "pending_count": 0,
+    "profile_view_count": 47,
+    "time_read": 66,
+    "recent_time_read": 0,
+    "primary_group_name": null,
+    "primary_group_flair_url": null,
+    "primary_group_flair_bg_color": null,
+    "primary_group_flair_color": null,
+    "invited_by": null,
+    "groups": [
+      {
+        "id": 10,
+        "automatic": true,
+        "name": "trust_level_0",
+        "display_name": "trust_level_0",
+        "user_count": 1195,
+        "mentionable_level": 0,
+        "messageable_level": 0,
+        "visibility_level": 0,
+        "automatic_membership_email_domains": null,
+        "automatic_membership_retroactive": false,
+        "primary_group": false,
+        "title": null,
+        "grant_trust_level": null,
+        "flair_url": null,
+        "flair_bg_color": null,
+        "flair_color": null,
+        "bio_cooked": null,
+        "public_admission": false,
+        "public_exit": false,
+        "allow_membership_requests": false,
+        "full_name": null,
+        "default_notification_level": 3,
+        "membership_request_template": null
+      }
+    ],
+    "group_users": [
+      {
+        "group_id": 10,
+        "user_id": 1143,
+        "notification_level": 3
+      }
+    ],
+    "featured_user_badge_ids": []
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "user_badges": [
+    {
+      "id": 1127,
+      "granted_at": "2018-09-15T17:12:36.521Z",
+      "count": 1,
+      "badge_id": 2,
+      "user_id": 974,
+      "granted_by_id": -1
+    },
+    {
+      "id": 1154,
+      "granted_at": "2019-02-03T04:08:04.537Z",
+      "count": 2,
+      "badge_id": 24,
+      "user_id": 974,
+      "granted_by_id": -1
+    },
+    {
+      "id": 1148,
+      "granted_at": "2018-11-21T10:12:27.684Z",
+      "count": 1,
+      "post_id": 227,
+      "post_number": 2,
+      "badge_id": 28,
+      "user_id": 974,
+      "granted_by_id": -1,
+      "topic_id": 75
+    }
+  ],
+  "badges": [
+    {
+      "id": 2,
+      "name": "Member",
+      "description": "<a href=\"https://blog.discourse.org/2018/06/understanding-discourse-trust-levels/\">Granted</a> invitations, group messaging, more likes",
+      "grant_count": 4,
+      "allow_title": false,
+      "multiple_grant": false,
+      "icon": "fa-user",
+      "image": null,
+      "listable": true,
+      "enabled": true,
+      "badge_grouping_id": 4,
+      "system": true,
+      "slug": "member",
+      "manually_grantable": false,
+      "badge_type_id": 3
+    },
+    {
+      "id": 24,
+      "name": "Anniversary",
+      "description": "Active member for a year, posted at least once",
+      "grant_count": 55,
+      "allow_title": false,
+      "multiple_grant": true,
+      "icon": "fa-clock-o",
+      "image": null,
+      "listable": true,
+      "enabled": true,
+      "badge_grouping_id": 2,
+      "system": true,
+      "slug": "anniversary",
+      "manually_grantable": false,
+      "badge_type_id": 2
+    },
+    {
+      "id": 28,
+      "name": "Popular Link",
+      "description": "Posted an external link with 50 clicks",
+      "grant_count": 2,
+      "allow_title": false,
+      "multiple_grant": true,
+      "icon": "fa-certificate",
+      "image": null,
+      "listable": true,
+      "enabled": true,
+      "badge_grouping_id": 3,
+      "system": true,
+      "slug": "popular-link",
+      "manually_grantable": false,
+      "badge_type_id": 3
+    }
+  ],
+  "badge_types": [
+    {
+      "id": 3,
+      "name": "Bronze",
+      "sort_order": 7
+    },
+    {
+      "id": 2,
+      "name": "Silver",
+      "sort_order": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 974,
+      "username": "caleb",
+      "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+      "name": "caleb",
+      "moderator": false,
+      "admin": false
+    },
+    {
+      "id": -1,
+      "username": "system",
+      "avatar_template": "/user_avatar/community.oshwa.org/system/{size}/1_1.png",
+      "name": "system",
+      "moderator": true,
+      "admin": true
+    }
+  ],
+  "topics": [
+    {
+      "id": 75,
+      "title": "Automated Optical Inspection of PCBs",
+      "fancy_title": "Automated Optical Inspection of PCBs",
+      "slug": "automated-optical-inspection-of-pcbs",
+      "posts_count": 2
+    }
+  ],
+  "user": {
+    "id": 974,
+    "username": "caleb",
+    "avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+    "name": "caleb",
+    "last_posted_at": "2018-09-20T15:30:44.382Z",
+    "last_seen_at": "2018-11-02T19:15:05.879Z",
+    "bio_raw": "I am an all-around open source enthusiast, maker, and artist. \n\nPrior to working at OSHWA as the Community Manager, I was the full-time 3D Printing Coordinator at The Digital Animation & Visual Effects School (DAVE School.) While there, I taught 250+ students the pipelines and skills necessary for professional success in 3D printing. \n\nOther experiences include teaching as a Graduate Teaching Assistant for the visual effects and video game production programs offered at The DAVE School, managing the then largest fleet of RepRap printers on the planet for Aleph Objects Inc. (creators of the Lulzbot brand of libre-hardware 3D printers), serving on multiple productions for the Emmy winner Ron Thornton (Ron was instrumental in the creation of Foundation Imaging. I worked with him at The Asylum, creators and producers of the Sharknado franchise), earning my black belt from Grandmaster Han Won Lee (Olympic medalist and former head coach at the OTC in Colorado Springs), prepping nationally ranked performance European track cars at SCR Performance, working on virtual reality games while developing for the OSVR and Oculus CV1 platforms, and building hundreds of boutique workstations for game/VFX development at DvNT Technologies.",
+    "bio_cooked": "<p>I am an all-around open source enthusiast, maker, and artist.</p>\n<p>Prior to working at OSHWA as the Community Manager, I was the full-time 3D Printing Coordinator at The Digital Animation &amp; Visual Effects School (DAVE School.) While there, I taught 250+ students the pipelines and skills necessary for professional success in 3D printing.</p>\n<p>Other experiences include teaching as a Graduate Teaching Assistant for the visual effects and video game production programs offered at The DAVE School, managing the then largest fleet of RepRap printers on the planet for Aleph Objects Inc. (creators of the Lulzbot brand of libre-hardware 3D printers), serving on multiple productions for the Emmy winner Ron Thornton (Ron was instrumental in the creation of Foundation Imaging. I worked with him at The Asylum, creators and producers of the Sharknado franchise), earning my black belt from Grandmaster Han Won Lee (Olympic medalist and former head coach at the OTC in Colorado Springs), prepping nationally ranked performance European track cars at SCR Performance, working on virtual reality games while developing for the OSVR and Oculus CV1 platforms, and building hundreds of boutique workstations for game/VFX development at DvNT Technologies.</p>",
+    "created_at": "2017-02-02T22:30:43.000Z",
+    "location": "Denver, Colorado",
+    "can_edit": false,
+    "can_edit_username": false,
+    "can_edit_email": false,
+    "can_edit_name": false,
+    "can_send_private_messages": false,
+    "can_send_private_message_to_user": false,
+    "bio_excerpt": "I am an all-around open source enthusiast, maker, and artist.\nPrior to working at OSHWA as the Community Manager, I was the full-time 3D Printing Coordinator at The Digital Animation &amp; Visual Effects School (DAVE School.) While there, I taught 250+ students the pipelines and skills necessary for professional success in 3D printing.<br>\nOther experience&hellip;",
+    "trust_level": 2,
+    "moderator": false,
+    "admin": false,
+    "title": null,
+    "uploaded_avatar_id": 17,
+    "badge_count": 11,
+    "custom_fields": {},
+    "pending_count": 0,
+    "profile_view_count": 144,
+    "time_read": 8481,
+    "recent_time_read": 0,
+    "primary_group_name": null,
+    "primary_group_flair_url": null,
+    "primary_group_flair_bg_color": null,
+    "primary_group_flair_color": null,
+    "custom_avatar_upload_id": 17,
+    "custom_avatar_template": "/user_avatar/community.oshwa.org/caleb/{size}/17_1.png",
+    "invited_by": null,
+    "groups": [
+      {
+        "id": 10,
+        "automatic": true,
+        "name": "trust_level_0",
+        "display_name": "trust_level_0",
+        "user_count": 1195,
+        "mentionable_level": 0,
+        "messageable_level": 0,
+        "visibility_level": 0,
+        "automatic_membership_email_domains": null,
+        "automatic_membership_retroactive": false,
+        "primary_group": false,
+        "title": null,
+        "grant_trust_level": null,
+        "flair_url": null,
+        "flair_bg_color": null,
+        "flair_color": null,
+        "bio_cooked": null,
+        "public_admission": false,
+        "public_exit": false,
+        "allow_membership_requests": false,
+        "full_name": null,
+        "default_notification_level": 3,
+        "membership_request_template": null
+      },
+      {
+        "id": 11,
+        "automatic": true,
+        "name": "trust_level_1",
+        "display_name": "trust_level_1",
+        "user_count": 1032,
+        "mentionable_level": 0,
+        "messageable_level": 0,
+        "visibility_level": 0,
+        "automatic_membership_email_domains": null,
+        "automatic_membership_retroactive": false,
+        "primary_group": false,
+        "title": null,
+        "grant_trust_level": null,
+        "flair_url": null,
+        "flair_bg_color": null,
+        "flair_color": null,
+        "bio_cooked": null,
+        "public_admission": false,
+        "public_exit": false,
+        "allow_membership_requests": false,
+        "full_name": null,
+        "default_notification_level": 3,
+        "membership_request_template": null
+      },
+      {
+        "id": 12,
+        "automatic": true,
+        "name": "trust_level_2",
+        "display_name": "trust_level_2",
+        "user_count": 3,
+        "mentionable_level": 0,
+        "messageable_level": 0,
+        "visibility_level": 0,
+        "automatic_membership_email_domains": null,
+        "automatic_membership_retroactive": false,
+        "primary_group": false,
+        "title": null,
+        "grant_trust_level": null,
+        "flair_url": null,
+        "flair_bg_color": null,
+        "flair_color": null,
+        "bio_cooked": null,
+        "public_admission": false,
+        "public_exit": false,
+        "allow_membership_requests": false,
+        "full_name": null,
+        "default_notification_level": 3,
+        "membership_request_template": null
+      }
+    ],
+    "group_users": [
+      {
+        "group_id": 10,
+        "user_id": 974,
+        "notification_level": 2
+      },
+      {
+        "group_id": 11,
+        "user_id": 974,
+        "notification_level": 2
+      },
+      {
+        "group_id": 12,
+        "user_id": 974,
+        "notification_level": 3
+      }
+    ],
+    "featured_user_badge_ids": [
+      1127,
+      1154,
+      1148
+    ]
+  }
+}

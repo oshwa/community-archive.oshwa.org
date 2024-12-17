@@ -1,0 +1,55 @@
+{
+  "category": {
+    "id": 17,
+    "name": "Consolidated Community Announcements",
+    "color": "25AAE2",
+    "text_color": "FFFFFF",
+    "slug": "consolidated-community-announcements",
+    "topic_count": 2,
+    "post_count": 2,
+    "position": 1,
+    "description": "Events and opportunities of interest across the Open Source Hardware (OSH) ecosystem. Posts to this channel are pushed to the IoPA, OSHWA, GOSH, and OpenToolchain forums concurrently.",
+    "description_text": "Events and opportunities of interest across the Open Source Hardware (OSH) ecosystem. Posts to this channel are pushed to the IoPA, OSHWA, GOSH, and OpenToolchain forums concurrently.",
+    "topic_url": "/t/about-the-consolidated-community-announcements-category/566",
+    "read_restricted": false,
+    "permission": null,
+    "notification_level": null,
+    "topic_template": "",
+    "has_children": null,
+    "sort_order": "",
+    "sort_ascending": null,
+    "show_subcategory_list": false,
+    "num_featured_topics": 3,
+    "default_view": "",
+    "subcategory_list_style": "rows_with_featured_topics",
+    "default_top_period": "all",
+    "minimum_required_tags": 0,
+    "navigate_to_first_post_after_read": false,
+    "available_groups": [
+      "admins",
+      "moderators",
+      "staff",
+      "trust_level_0",
+      "trust_level_1",
+      "trust_level_2",
+      "trust_level_3",
+      "trust_level_4"
+    ],
+    "auto_close_hours": null,
+    "auto_close_based_on_last_post": false,
+    "group_permissions": [
+      {
+        "permission_type": 1,
+        "group_name": "everyone"
+      }
+    ],
+    "mailinglist_mirror": false,
+    "all_topics_wiki": false,
+    "cannot_delete_reason": "Can't delete this category because it has 2 topics. Oldest topic is <a href=\"http://community.oshwa.org/t/50k-fast-funding-program-for-low-cost-science-tools/590\">$50k fast funding program for low-cost science tools!</a>.",
+    "allow_badges": true,
+    "custom_fields": {},
+    "topic_featured_link_allowed": true,
+    "uploaded_logo": null,
+    "uploaded_background": null
+  }
+}

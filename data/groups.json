@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "id": 2,
+      "automatic": true,
+      "name": "moderators",
+      "display_name": "moderators",
+      "user_count": 3,
+      "mentionable_level": 0,
+      "messageable_level": 99,
+      "visibility_level": 0,
+      "automatic_membership_email_domains": null,
+      "automatic_membership_retroactive": false,
+      "primary_group": false,
+      "title": null,
+      "grant_trust_level": null,
+      "flair_url": null,
+      "flair_bg_color": null,
+      "flair_color": null,
+      "bio_cooked": null,
+      "public_admission": false,
+      "public_exit": false,
+      "allow_membership_requests": false,
+      "full_name": null,
+      "default_notification_level": 2,
+      "membership_request_template": null
+    }
+  ],
+  "extras": {
+    "type_filters": [
+      "public",
+      "close"
+    ]
+  },
+  "total_rows_groups": 1,
+  "load_more_groups": "/groups?page=1"
+}

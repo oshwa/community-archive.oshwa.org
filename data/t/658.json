@@ -1,0 +1,295 @@
+{
+  "post_stream": {
+    "posts": [
+      {
+        "id": 979,
+        "name": "pt",
+        "username": "philliptorrone",
+        "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png",
+        "created_at": "2024-01-06T14:58:22.492Z",
+        "cooked": "<p>i sent some emails to open-source orgs about this before the end of 2023, so here\u2019s a post to see what folks think here too.</p>\n<p>openai\u2019s chatgpt appears to have been trained on a lot of adafruit\u2019s 10+ years of open-source code, helpful for us (maybe?). we\u2019ve recently experimented with using chatgpt for arduino (c/c++) library and driver authoring in conjunction with limor \u201cladyada\u201d the primary author.</p>\n<p>we decided if we use any ai or generative tools, including chatgpt we\u2019ll disclose that in a comment and provide the link to the service or tool used and, when used for published code, and when possible, we\u2019ll share the exact chat logs used (openai chatgpt).</p>\n<p>we have a start of what might be a way for open-source developers to indicate the use of ai tools such as chatgpt, as far as we can determine, we\u2019re the first to include the LLM/tool build and complete chat/prompt logs in the license file / readme.</p>\n<p>overview:<br>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://cdn-blog.adafruit.com/uploads/2020/04/logo_small@2x.png\" class=\"site-icon\" width=\"16\" height=\"16\">\n      <a href=\"https://blog.adafruit.com/2023/09/09/attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit/\" target=\"_blank\" title=\"05:06PM - 09 September 2023\" rel=\"nofollow noopener\">Adafruit Industries - Makers, hackers, artists, designers and engineers! \u2013 9 Sep 23</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:132/74;\"><img src=\"https://cdn-blog.adafruit.com/uploads/2023/09/attribution-of-openai-chatgpt-in.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://blog.adafruit.com/2023/09/09/attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit/\" target=\"_blank\" rel=\"nofollow noopener\">Attribution of OpenAI ChatGPT in open-source code published by Adafruit</a></h3>\n\n<p>Video: Writing an Arduino driver with OpenAI ChatGPT and PDF parsing \u2013 September 2023 OpenAI\u2019s ChatGPT appears to have been trained on a lot of Adafruit\u2019s 10+ years of open-source\u2026</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n</p>\n<p>example:<br>\ngithub com/adafruit/Adafruit_HUSB238</p>\n<h1>===<br>\nWritten by Limor Fried (Adafruit Industries) with OpenAI ChatGPT v4 Aug 3rd, 2023 build</h1>\n<p>this could be a good topic at the summit or with other open-source hardware / software publishers, sparkfun has a video with some mention of using ai, it would be interesting to know how/if they\u2019re approaching this as well, 2min 57 secs in - <a href=\"https://youtu.be/OC_0ox2dv2w?t=177\" rel=\"nofollow noopener\">https://youtu.be/OC_0ox2dv2w?t=177</a></p>",
+        "post_number": 1,
+        "post_type": 1,
+        "updated_at": "2024-01-06T14:58:22.492Z",
+        "reply_count": 0,
+        "reply_to_post_number": null,
+        "quote_count": 0,
+        "avg_time": 5,
+        "incoming_link_count": 31,
+        "reads": 3,
+        "score": 155.85,
+        "yours": false,
+        "topic_id": 658,
+        "topic_slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+        "display_username": "pt",
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_bg_color": null,
+        "primary_group_flair_color": null,
+        "version": 1,
+        "can_edit": false,
+        "can_delete": false,
+        "can_recover": false,
+        "can_wiki": false,
+        "link_counts": [
+          {
+            "url": "https://blog.adafruit.com/2023/09/09/attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit/",
+            "internal": false,
+            "reflection": false,
+            "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit \u00ab Adafruit Industries \u2013 Makers, hackers, artists, designers and engineers!",
+            "clicks": 5
+          },
+          {
+            "url": "https://youtu.be/OC_0ox2dv2w?t=177",
+            "internal": false,
+            "reflection": false,
+            "clicks": 0
+          }
+        ],
+        "read": true,
+        "user_title": null,
+        "actions_summary": [],
+        "moderator": false,
+        "admin": false,
+        "staff": false,
+        "user_id": 1190,
+        "hidden": false,
+        "trust_level": 0,
+        "deleted_at": null,
+        "user_deleted": false,
+        "edit_reason": null,
+        "can_view_edit_history": true,
+        "wiki": false
+      }
+    ],
+    "stream": [
+      979
+    ]
+  },
+  "timeline_lookup": [
+    [
+      1,
+      316
+    ]
+  ],
+  "suggested_topics": [
+    {
+      "id": 703,
+      "title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "fancy_title": "Is it time to update the Open Hardware Definition for AI or make a parallel one for AI?",
+      "slug": "is-it-time-to-update-the-open-hardware-definition-for-ai-or-make-a-parallel-one-for-ai",
+      "posts_count": 1,
+      "reply_count": 0,
+      "highest_post_number": 1,
+      "image_url": "//community.oshwa.org/uploads/default/optimized/1X/56ffd61511071240b65ea340c3ccf9d562e446ff_1_690x231.jpg",
+      "created_at": "2024-08-29T14:40:39.422Z",
+      "last_posted_at": "2024-08-29T14:40:39.522Z",
+      "bumped": true,
+      "bumped_at": "2024-08-29T14:40:39.522Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 76,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1190,
+            "username": "philliptorrone",
+            "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 680,
+      "title": "Test topic account",
+      "fancy_title": "Test topic account",
+      "slug": "test-topic-account",
+      "posts_count": 2,
+      "reply_count": 0,
+      "highest_post_number": 2,
+      "image_url": null,
+      "created_at": "2024-04-19T19:29:28.671Z",
+      "last_posted_at": "2024-04-19T19:30:31.465Z",
+      "bumped": true,
+      "bumped_at": "2024-04-19T19:30:31.465Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 130,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest single",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1209,
+            "username": "avi448",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/a/a9a28c/{size}.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 683,
+      "title": "Unique ID for usb rfid readers",
+      "fancy_title": "Unique ID for usb rfid readers",
+      "slug": "unique-id-for-usb-rfid-readers",
+      "posts_count": 3,
+      "reply_count": 1,
+      "highest_post_number": 3,
+      "image_url": "https://i0.wp.com/www.oshwa.org/wp-content/uploads/2023/10/avatar.png?fit=32%2C32&ssl=1",
+      "created_at": "2024-04-23T10:06:47.348Z",
+      "last_posted_at": "2024-05-01T00:43:36.502Z",
+      "bumped": true,
+      "bumped_at": "2024-05-01T00:43:36.502Z",
+      "unseen": false,
+      "pinned": false,
+      "unpinned": null,
+      "visible": true,
+      "closed": false,
+      "archived": false,
+      "bookmarked": null,
+      "liked": null,
+      "archetype": "regular",
+      "like_count": 0,
+      "views": 142,
+      "category_id": 5,
+      "featured_link": null,
+      "posters": [
+        {
+          "extras": "latest",
+          "description": "Original Poster, Most Recent Poster",
+          "user": {
+            "id": 1210,
+            "username": "sswcharlie",
+            "avatar_template": "/letter_avatar_proxy/v2/letter/s/a3d4f5/{size}.png"
+          }
+        },
+        {
+          "extras": null,
+          "description": "Frequent Poster",
+          "user": {
+            "id": 3,
+            "username": "alicia",
+            "avatar_template": "/user_avatar/community.oshwa.org/alicia/{size}/8_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "id": 658,
+  "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+  "fancy_title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit",
+  "posts_count": 1,
+  "created_at": "2024-01-06T14:58:22.406Z",
+  "views": 383,
+  "reply_count": 0,
+  "like_count": 0,
+  "last_posted_at": "2024-01-06T14:58:22.492Z",
+  "visible": true,
+  "closed": false,
+  "archived": false,
+  "has_summary": false,
+  "archetype": "regular",
+  "slug": "attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit",
+  "category_id": 5,
+  "word_count": 261,
+  "deleted_at": null,
+  "user_id": 1190,
+  "featured_link": null,
+  "pinned_globally": false,
+  "pinned_at": null,
+  "pinned_until": null,
+  "draft": null,
+  "draft_key": "topic_658",
+  "draft_sequence": null,
+  "unpinned": null,
+  "pinned": false,
+  "details": {
+    "created_by": {
+      "id": 1190,
+      "username": "philliptorrone",
+      "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+    },
+    "last_poster": {
+      "id": 1190,
+      "username": "philliptorrone",
+      "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png"
+    },
+    "participants": [
+      {
+        "id": 1190,
+        "username": "philliptorrone",
+        "avatar_template": "/user_avatar/community.oshwa.org/philliptorrone/{size}/144_1.png",
+        "post_count": 1,
+        "primary_group_name": null,
+        "primary_group_flair_url": null,
+        "primary_group_flair_color": null,
+        "primary_group_flair_bg_color": null
+      }
+    ],
+    "links": [
+      {
+        "url": "https://blog.adafruit.com/2023/09/09/attribution-of-openai-chatgpt-in-open-source-code-published-by-adafruit/",
+        "title": "Attribution of OpenAI ChatGPT in open-source code published by Adafruit \u00ab Adafruit Industries \u2013 Makers, hackers, artists, designers and engineers!",
+        "internal": false,
+        "attachment": false,
+        "reflection": false,
+        "clicks": 5,
+        "user_id": 1190,
+        "domain": "blog.adafruit.com",
+        "root_domain": "adafruit.com"
+      }
+    ],
+    "notification_level": 1,
+    "can_flag_topic": false
+  },
+  "current_post_number": 1,
+  "highest_post_number": 1,
+  "deleted_by": null,
+  "actions_summary": [
+    {
+      "id": 4,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 8,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    },
+    {
+      "id": 7,
+      "count": 0,
+      "hidden": false,
+      "can_act": false
+    }
+  ],
+  "chunk_size": 20,
+  "bookmarked": null,
+  "topic_timer": null,
+  "message_bus_last_id": 0,
+  "participant_count": 1
+}
