@@ -1,0 +1,76 @@
+.container>.navbar .navbar-brand {
+    margin-inline-start: 0;
+    font-weight: bold;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+main {
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+}
+
+.topic {
+    .level-left {
+        flex-shrink: 1;
+    }
+
+    .topic-title {
+        font-weight: bold;
+    }
+}
+
+.post-username {
+    font-weight: bold;
+}
+.post-timestamp  {
+    font-size: 90%;
+}
+
+.content .lightbox-wrapper {
+    .meta {
+        display: flex;
+        font-size: 90%;
+
+        .filename {
+            flex: 1;
+        }
+    }
+}
+
+.content .onebox {
+    border: 0.25rem solid var(--bulma-text);
+    padding: 1rem;
+    margin-block: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+
+    header {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+        font-size: 0.9rem;
+
+        a {
+            color: var(--bulma-text-weak);
+        }
+    }
+
+    article {
+        img.thumbnail {
+            float: left;
+            width: 60px;
+            height: auto;
+            margin-right: 1rem;
+        }
+
+        h3 {
+            margin-top: 0;
+            margin-bottom: 0.25rem;
+            font-size: 1.2rem;
+        }
+    }
+}

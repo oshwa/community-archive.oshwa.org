@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>I created a project by OpenSTM32 and I got some error - OSHWA community archive</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/2374bdec1c.css">
+    <link rel="stylesheet" href="/bulma.min.css" />
+    <link rel="stylesheet" href="/index.css" />
+  </head>
+
+  <body>
+    <div class="container is-max-tablet">
+
+      <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="/">
+            OSHWA Community Archive
+          </a>
+        </div>
+        <div class="navbar-end">
+          <a class="navbar-item" href="https://oshwa.org">oshwa.org</a>
+        </div>
+      </nav>
+
+      <article class="message archive-message">
+        <div class="message-body">
+          This is a read-only archive of <em>community.oshwa.org</em>. If you find any issues or missing data, please
+          <a href="mailto:info@oshwa.org">email us</a> or
+          <a href="https://github.com/oshwa/community-archive.oshwa.org/issues">file an issue on GitHub</a>.
+        </div>
+      </article>
+
+      <main class="main">
+        
+
+<div class="topic">
+  <h1 class="title topic-title">I created a project by OpenSTM32 and I got some error</h1>
+
+  
+    <article class="media topic-post">
+      <figure class="media-left image is-48x48">
+        <img class="is-rounded" src="/letter_avatar_proxy/v2/letter/a/e68b1a/240.png">
+      </figure>
+      <div class="media-content">
+        <div class="level is-mobile">
+          <div class="level-left">
+            <span class="post-username">Alinga</span>
+          </div>
+          <div class="level-right">
+            <span class="post-timestamp"><span class="timestamp" title="2018-03-30T06:06:20.439000+00:00">Mar 30, 2018</span></span>
+          </div>
+        </div>
+        <div class="content topic-post-content">
+          <p><strong>Setup</strong></p>
+<p>I have an STM32F103C8T6 minimal eval board (see STM32F103C8T6 datasheet: <a href="http://www.kynix.com/uploadfiles/pdf8827/STM32F103C8T6.pdf" rel="nofollow noopener">http://www.kynix.com/uploadfiles/pdf8827/STM32F103C8T6.pdf</a>).</p>
+<p>And I’m using an ST link like the picture below.</p>
+<p>I installed System Workbench for Eclipse. I created my own project (C++, Empty Project, toolchains: Ac6 STM 32 MCU GCC), Series: STM32F1, Mcu: STM32F103C8Tx, Core: ARM Cortex-M3, Package: LQFP48, Memory ram: Size 0x5000, memory ROM: size 0x10000.</p>
+<p><strong>Code</strong></p>
+<p>The code contains a system_stm32f10x.c file which was generated (or automatically included) by the IDE.</p>
+<p>The program compiles ok:</p>
+<pre><code> * @file    main.c
+  * @author  Ac6
+  * @version V1.0
+  * @date    01-December-2013
+  * @brief   Default main function.
+  ******************************************************************************
+*/
+
+
+#include "stm32f10x.h"
+#include &lt;stm32f10x_rcc.h&gt;
+
+void delay(int counter)
+{
+volatile int i;
+for (i = 0; i &lt; counter * 10000; i++) {}
+}
+
+int main(void)
+{
+GPIO_InitTypeDef gpio;
+RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOC, ENABLE);
+
+GPIO_StructInit(&amp;gpio);
+gpio.GPIO_Pin = GPIO_Pin_13;
+gpio.GPIO_Mode = GPIO_Mode_Out_PP;
+gpio.GPIO_Speed = GPIO_Speed_50MHz;
+GPIO_Init(GPIOC, &amp;gpio);
+
+GPIO_SetBits(GPIOC, GPIO_Pin_13);
+
+while (1)
+{
+    GPIO_SetBits(GPIOC, GPIO_Pin_13); // LED ON
+    delay(400);
+    GPIO_ResetBits(GPIOC, GPIO_Pin_13); // LED OFF
+    delay(400);
+}
+}
+</code></pre>
+<p><strong>Upload by OpenSTM32</strong></p>
+<p>When I create a Run configuration (no changes made), and select Run I get the following error (in console):</p>
+<pre><code>Open On-Chip Debugger 0.10.0-dev-00302-gc211ca5-dirty (2017-07-03-10:41)
+Licensed under GNU GPL v2
+For bug reports, read
+    http://openocd.org/doc/doxygen/bugs.html
+srst_only separate srst_nogate srst_open_drain connect_assert_srst
+Info : The selected transport took over low-level target control. The results might differ compared to plain JTAG/SWD
+adapter speed: 950 kHz
+adapter_nsrst_delay: 100
+Info : clock speed 950 kHz
+Info : STLINK v2 JTAG v17 API v2 SWIM v4 VID 0x0483 PID 0x3748
+Info : vid/pid are not identical: 0x0483/0x374B 0x0483/0x3748
+Info : using stlink api v2
+Info : Target voltage: 3.231135
+Info : STM32F103C8Tx.cpu: hardware has 6 breakpoints, 4 watchpoints
+adapter speed: 950 kHz
+Error: timed out while waiting for target halted
+TARGET: STM32F103C8Tx.cpu - Not halted
+in procedure 'program' 
+in procedure 'reset' called at file "embedded:startup.tcl", line 478
+in procedure 'ocd_bouncer'
+
+** Unable to reset target **
+shutdown command invoked
+</code></pre>
+<p><strong>Connections</strong></p>
+<ul>
+<li>STlink SWDIO pin 2 -&gt; pin 7 of JTAG</li>
+<li>STlink GND pin 4 GND -&gt; pin 4 of JTAG</li>
+<li>STlink SWCLK pin 6 -&gt; pin 9 of JTAG</li>
+<li>USB -&gt; USB ( STlink 3.3V pin 8 not connected, neither all other STlink pins)</li>
+</ul>
+<p><strong>Debug configuration file</strong></p>
+<pre><code># This is an F103C8T6_Simple board with a single STM32F103C8Tx chip
+#
+# Generated by System Workbench for STM32
+# Take care that such file, as generated, may be overridden without any early notice. Please have a look to debug launch configuration setup(s)
+
+source [find interface/stlink.cfg] 
+
+set WORKAREASIZE 0x5000
+
+transport select "hla_swd"
+
+set CHIPNAME STM32F103C8Tx
+
+# Enable debug when in low power modes
+set ENABLE_LOW_POWER 1
+
+# Stop Watchdog counters when halt
+set STOP_WATCHDOG 1
+
+# STlink Debug clock frequency
+set CLOCK_FREQ 4000
+
+# use hardware reset, connect under reset
+# connect_assert_srst needed if low power mode application running (WFI...)
+reset_config srst_only srst_nogate connect_assert_srst
+set CONNECT_UNDER_RESET 1
+
+source [find target/stm32f1x.cfg]
+</code></pre>
+<p><strong>Run configurations screen</strong><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="/uploads/default/original/1X/c790ee521f519297c476a7e6cd0cfa95af7bfd27.png" data-download-href="/uploads/default/c790ee521f519297c476a7e6cd0cfa95af7bfd27" title="yfmI5.png"><img src="/uploads/default/optimized/1X/c790ee521f519297c476a7e6cd0cfa95af7bfd27_1_453x499.png" width="453" height="499"><div class="meta">
+<span class="filename">yfmI5.png</span><span class="informations">701x773 28.5 KB</span><span class="expand"></span>
+</div></a></div></p>
+        </div>
+      </div>
+    </article>
+  
+</div>
+
+
+      </main>
+    </div>
+  </body>
+</html>
