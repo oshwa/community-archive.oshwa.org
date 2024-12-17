@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block html_title %}{{topic.fancy_title}} - {{ super() }}{% endblock %}
+
+{% block main %}
+
+<div class="topic">
+  <h1 class="title topic-title">{{topic.fancy_title}}</h1>
+
+  {% for post in posts %}
+    <article class="media topic-post">
+      <figure class="media-left image is-48x48">
+        <img class="is-rounded" src="{{post.avatar_template | avatar}}">
+      </figure>
+      <div class="media-content">
+        <div class="level is-mobile">
+          <div class="level-left">
+            <span class="post-username">{{post.username}}</span>
+          </div>
+          <div class="level-right">
+            <span class="post-timestamp">{{post.created_at | format_date}}</span>
+          </div>
+        </div>
+        <div class="content topic-post-content">
+          {{post.cooked}}
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+{% endblock %}

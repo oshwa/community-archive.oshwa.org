@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block main %}
+
+<div class="topics">
+  {% for topic in topics.values(): %}
+    <article class="media topic">
+      <figure class="media-left image is-48x48">
+        <img class="is-rounded" src="{{topic.details.created_by.avatar_template | avatar}}">
+      </figure>
+      <div class="media-content">
+        <div class="level is-mobile">
+          <div class="level-left is-flex-direction-column is-align-items-flex-start">
+            <a class="topic-title" href="t/{{topic.slug}}/{{topic.id}}">{{topic.fancy_title}}</a>
+            <div>
+              <span class="tag is-primary">{{categories[topic.category_id].name}}</span>
+            </div>
+          </div>
+          <div class="level-right is-flex-direction-column is-align-items-flex-end">
+            <span class="post-timestamp">{{topic.created_at | format_date}}</span>
+            <div>
+              <span class="tag is-rounded" title="posts">{{topic.posts_count}}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+</div>
+
+{% endblock %}
